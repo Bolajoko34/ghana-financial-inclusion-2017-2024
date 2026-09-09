@@ -1,145 +1,1513 @@
-Year,Variables,January,February,March,April,May,June,July,August,September,October,November,December
-2023,Total Liquidity (M2+),196993.67,201602.75,206824.35,207528.19,0,0,0,0,0,0,0,0
-2017,Narrow Money (M1),91213.65,92444.84,94959.7,97523.05,0,0,0,0,0,0,0,0
-2017,Broad Money (M2),139966.12,143732.5,148131,150496.16,0,0,0,0,0,0,0,0
-2017,Reserve Money (RM),62752.24,66660.76,57840.77,69161.5,0,0,0,0,0,0,0,0
-2017,Total Banking System Liabilities,196993.67,201602.75,206824.35,207528.19,0,0,0,0,0,0,0,0
-2017,Foreign Currency Deposits,57027.55,58379.75,58855.41,57032.04,0,0,0,0,0,0,0,0
-2017,Demand Deposits,60202.67,61439.02,63765.13,66184.51,0,0,0,0,0,0,0,0
-2017,Savings and Time Deposits,48752.47,51287.66,53171.31,52973.1,0,0,0,0,0,0,0,0
-2017,Currency Outside Banks,31010.97,31005.82,31194.57,31338.54,0,0,0,0,0,0,0,0
-2017,Total Banking System Assets,196993.67,201602.75,206824.35,207528.19,0,0,0,0,0,0,0,0
-2017,Other Domestic Assets (Net),-7604.16,-10035.84,-1608.81,-2615.99,0,0,0,0,0,0,0,0
-2017,Government Deposits,-10943.6,-13327.31,-11560.83,25570.52,0,0,0,0,0,0,0,0
-2017,Claims on Private and Public Enterprises,81246.78,76412.93,76208.82,74857.62,0,0,0,0,0,0,0,0
-2017,Claims on Government,124463.84,132736.92,132669.66,171248.96,0,0,0,0,0,0,0,0
-2017,Net Foreign Assets - Bank of Ghana,-21311.29,-21494.37,-23944.4,-22970.76,0,0,0,0,0,0,0,0
-2017,Net Foreign Assets - Deposit Money Banks,9254.91,10655.8,11938.25,12578.9,0,0,0,0,0,0,0,0
-2017,Total Net Domestic Assets,209050.05,212441.31,218830.5,217920.06,0,0,0,0,0,0,0,0
-2017,Total Net Foreign Assets,-12056.39,-10838.57,-12006.15,-10391.87,0,0,0,0,0,0,0,0
-2017,Broad Money (M2),108231.31,107281.63,106050.89,105204.84,105600.77,106488.56,109303.85,110233.88,110613.58,121790.71,0,0
-2018,Total Liquidity (M2+),137474.29,139444.38,142729.13,142563.67,142642.75,145156.93,150415.5,152455.83,160157.59,187659.2,0,0
-2018,Reserve Money (RM),44963.72,43197.72,44866.58,47215.05,46616.21,48237.98,49549.65,49977.35,53503.9,64737.95,0,0
-2018,Narrow Money (M1),72196.33,70941.29,68918.69,67673.78,68062.9,66917.35,68983.29,69058.34,69671.98,79774.66,0,0
-2018,Foreign Currency Deposits,29242.98,32162.74,36678.24,37358.83,37041.98,38668.37,41111.65,42221.95,49544.01,65868.49,0,0
-2018,Total Banking System Liabilities,137474.29,139444.38,142729.13,142563.67,142642.75,145156.93,150415.5,152455.83,160157.59,187659.2,0,0
-2018,Savings and Time Deposits,36034.97,36340.35,37132.19,37531.06,37537.88,39571.21,40320.55,41175.54,40941.6,42016.05,0,0
-2018,Currency Outside Banks,21864.93,21658.07,22090.81,22959.47,22612.35,22102.32,22355.72,23075.4,23786.09,25674.07,0,0
-2018,Demand Deposits,50331.4,49283.21,46827.89,44714.31,45450.55,44815.03,46627.57,45982.95,45885.89,54100.59,0,0
-2018,Other Domestic Assets (Net),-15100.79,-14910.82,-16044.79,-16866.85,-16237.04,-15265.53,-14030.18,-19035.94,-10283.04,-2194.84,0,0
-2018,Total Banking System Assets,137474.29,139444.38,142729.13,142563.67,142642.75,145156.93,150415.5,152455.83,160157.59,187659.2,0,0
-2018,Claims on Private and Public Enterprises,62869.17,64329.02,67382.69,69489.48,70614.34,71452.21,71998.23,73974.45,78157,88213.05,0,0
-2018,Government Deposits,17897.85,18735.6,20194.32,16426.49,10720.71,9179.97,6138.75,1710.64,8119.5,4252.43,0,0
-2018,Claims on Government,101110.2,103853.45,107982.02,107518.38,105573.43,105621.16,107563.51,113215.36,117068.42,125421.67,0,0
-2018,Total Banking System Assets,137474.29,139444.38,142729.13,142563.67,142642.75,145156.93,150415.5,152455.83,160157.59,187659.2,194979.44,180266.84
-2018,Other Domestic Assets (Net),-15100.79,-14910.82,-16044.79,-16866.85,-16237.04,-15265.53,-14030.18,-19035.94,-10283.04,-2194.84,-3293.72,-7058.82
-2018,Claims on Private and Public Enterprises,62869.17,64329.02,67382.69,69489.48,70614.34,71452.21,71998.23,73974.45,78157,88213.05,89004.04,76905.03
-2018,Government Deposits,17897.85,18735.6,20194.32,16426.49,10720.71,9179.97,6138.75,1710.64,8119.5,4252.43,-7420.22,-3660.25
-2018,Claims on Government,101110.2,103853.45,107982.02,107518.38,105573.43,105621.16,107563.51,113215.36,117068.42,125421.67,126295.74,118894.09
-2019,Total Liquidity (M2+),137474.29,139444.38,142729.13,142563.67,142642.75,145156.93,150415.5,152455.83,160157.59,187659.2,194979.44,180266.84
-2019,Broad Money (M2),108231.31,107281.63,106050.89,105204.84,105600.77,106488.56,109303.85,110233.88,110613.58,121790.71,128482.81,135142.49
-2019,Narrow Money (M1),72196.33,70941.29,68918.69,67673.78,68062.9,66917.35,68983.29,69058.34,69671.98,79774.66,82207.57,88484.18
-2019,Reserve Money (RM),44963.72,43197.72,44866.58,47215.05,46616.21,48237.98,49549.65,49977.35,53503.9,64737.95,65615,68103.84
-2019,Total Banking System Liabilities,137474.29,139444.38,142729.13,142563.67,142642.75,145156.93,150415.5,152455.83,160157.59,187659.2,194979.44,180266.84
-2019,Foreign Currency Deposits,29242.98,32162.74,36678.24,37358.83,37041.98,38668.37,41111.65,42221.95,49544.01,65868.49,66496.63,45124.35
-2019,Savings and Time Deposits,36034.97,36340.35,37132.19,37531.06,37537.88,39571.21,40320.55,41175.54,40941.6,42016.05,46275.25,46658.31
-2019,Demand Deposits,50331.4,49283.21,46827.89,44714.31,45450.55,44815.03,46627.57,45982.95,45885.89,54100.59,52732.92,57063.53
-2019,Currency Outside Banks,21864.93,21658.07,22090.81,22959.47,22612.35,22102.32,22355.72,23075.4,23786.09,25674.07,29474.64,31420.65
-2019,Total Net Domestic Assets,130980.74,134536.04,139125.61,143714.52,149230.02,152627.87,159392.8,166443.23,176822.88,207187.45,219426.28,192400.54
-2019,Net Foreign Assets - Bank of Ghana,9315.06,9154.33,4485.86,1453.09,-3813.34,-6401.93,-8995.2,-14375.54,-16871.08,-21098.91,-31490.12,-19300.17
-2019,Net Foreign Assets - Deposit Money Banks,-2821.51,-4246,-882.33,-2603.94,-2773.93,-1069.01,17.89,388.14,205.79,1570.66,7043.28,7166.46
-2019,Total Net Foreign Assets,6493.55,4908.33,3603.52,-1150.85,-6587.27,-7470.94,-8977.3,-13987.4,-16665.29,-19528.25,-24446.84,-12133.7
-2019,Net Foreign Assets - Deposit Money Banks,-2821.51,-4246,-882.33,-2603.94,-2773.93,-1069.01,17.89,388.14,205.79,1570.66,0,0
-2019,Total Net Domestic Assets,130980.74,134536.04,139125.61,143714.52,149230.02,152627.87,159392.8,166443.23,176822.88,207187.45,0,0
-2019,Net Foreign Assets - Bank of Ghana,9315.06,9154.33,4485.86,1453.09,-3813.34,-6401.93,-8995.2,-14375.54,-16871.08,-21098.91,0,0
-2019,Total Net Foreign Assets,6493.55,4908.33,3603.52,-1150.85,-6587.27,-7470.94,-8977.3,-13987.4,-16665.29,-19528.25,0,0
-2019,Total Liquidity (M2+),117976.85,118467.48,119445.22,118933.79,120451.55,121891.32,122643.76,123548.57,124596.6,129231.01,131645.92,135555.75
-2020,Broad Money (M2),92625.97,92071.18,93226.01,91942.98,93396.17,94210.69,94837.79,96081.78,96838.7,101128.67,102961.93,105737.27
-2020,Narrow Money (M1),59346.37,57987.1,59148.13,57786.74,59218.95,59921.11,59325.64,60948.49,61153.92,63458.95,65974.99,69389.31
-2020,Total Banking System Liabilities,117976.85,118467.48,119445.22,118933.79,120451.55,121891.32,122643.76,123548.57,124596.6,129231.01,131645.92,135555.75
-2020,Reserve Money (RM),36117.25,35439.73,34904.63,35293.96,36597.91,36063.64,39878.74,37557.02,39156.13,39785.36,40353.04,43244.9
-2020,Savings and Time Deposits,33279.6,34084.08,34077.88,34156.24,34177.22,34289.58,35512.15,35133.28,35684.78,37669.72,36986.94,36347.96
-2020,Foreign Currency Deposits,25350.87,26396.31,26219.21,26990.81,27055.37,27680.63,27805.97,27466.8,27757.9,28102.33,28684,29818.48
-2020,Demand Deposits,39440.16,38540.09,39823.39,38038.38,40106.48,41364.14,40746.4,42285.43,42341.55,43921.14,46467.01,47615.41
-2020,Currency Outside Banks,19906.22,19447,19324.74,19748.36,19112.47,18556.97,18579.25,18663.06,18812.37,19537.81,19507.98,21773.9
-2020,Total Banking System Assets,117976.85,118467.48,119445.22,118933.79,120451.55,121891.32,122643.76,123548.57,124596.6,129231.01,131645.92,135555.75
-2020,Other Domestic Assets (Net),-24166.83,-25793.89,-23511.79,-23223.13,-26087.76,-22192.82,-22047.34,-23019.07,-26879.17,-26161.99,-24080.63,-9551.34
-2020,Claims on Private and Public Enterprises,55081.43,55441.14,55222.55,55547.63,56183.01,55417.75,56238.07,57006.8,58627.96,60490.72,61295.52,62261.47
-2020,Claims on Government,85886.99,86287.49,90387.46,92061.82,95961.19,94906.19,93587.41,95329.44,98107.94,96914.76,97702.04,97437.16
-2020,Government Deposits,17805.29,16599.85,17749.88,33439.83,32051.55,31624.36,26221.94,24211.41,20459.64,17316.69,13478.78,22122.89
-2020,Total Net Domestic Assets,98996.29,99334.89,104348.34,90946.49,94004.89,96506.78,101556.2,105105.76,109397.09,113926.79,121438.15,128024.4
-2020,Net Foreign Assets - Bank of Ghana,16105.2,15460.68,11740.53,26967.14,26592.03,25033.84,23575.23,21169.25,16504.31,17247.01,13208.55,8247.02
-2020,Net Foreign Assets - Deposit Money Banks,2875.35,3671.92,3356.35,1020.17,-145.37,350.71,-2487.66,-2726.43,-1304.8,-1942.8,-3000.78,-715.67
-2020,Total Net Foreign Assets,18980.55,19132.59,15096.87,27987.31,26446.66,25384.55,21087.56,18442.81,15199.51,15304.21,10207.77,7531.35
-2020,Broad Money (M2),68534.71,69798.91,71097.88,71941.26,75215.28,76951.84,77843.83,79012.1,84864.02,87833.39,91709.61,94491.75
-2021,Total Liquidity (M2+),91907.42,91762.67,92905.07,94556.02,98540,100498.91,101564.14,102814.68,109134.38,112859.69,116597.74,120521.82
-2021,Reserve Money (RM),27432.02,26284.64,28486.64,26747.38,27001.53,25546.83,28515.19,27474.02,30338.05,31611.83,33258.84,36124.78
-2021,Narrow Money (M1),42605.59,43500.82,44691.05,45485.05,47768.64,48684.68,49276.26,49566.86,52738.45,54502.47,58162.71,60826.18
-2021,Total Banking System Liabilities,91907.42,91762.67,92905.07,94556.02,98540,100498.91,101564.14,102814.68,109134.38,112859.69,116597.74,120521.82
-2021,Foreign Currency Deposits,23372.71,21963.76,21807.18,22614.77,23324.71,23547.07,23720.32,23802.58,24270.36,25026.3,24888.13,26030.07
-2021,Savings and Time Deposits,25929.11,26298.09,26406.84,26456.21,27446.64,28267.16,28567.57,29445.24,32125.57,33330.92,33546.9,33665.58
-2021,Demand Deposits,28997.05,30107.92,31043.52,31170.49,33279.41,33867.24,33793.08,33785.01,36332.24,36793.2,38862.41,39936.55
-2021,Total Banking System Assets,91907.42,91762.67,92905.07,94556.02,98540,100498.91,101564.14,102814.68,109134.38,112859.69,116597.74,120521.82
-2021,Currency Outside Banks,13608.55,13392.9,13647.53,14314.56,14489.24,14817.44,15483.17,15781.85,16406.21,17709.26,19300.3,20889.63
-2021,Other Domestic Assets (Net),-10525.95,-12599.46,-25303.39,-24929.09,-24590.26,-24656.45,-25663.22,-27373.7,-22425.1,-22269.48,-23508.65,-21480.37
-2021,Claims on Private and Public Enterprises,50948.73,50658.28,49467.68,49460.31,49568.66,49590.7,49399.21,50214.5,51165.31,52072.76,54463.58,54438.54
-2021,Government Deposits,12711.18,16498.94,12176.84,17635.59,17752.94,14651.49,12138.45,11008.61,15192.31,18160.83,15377.35,16104.3
-2021,Total Net Domestic Assets,74512.23,69158.99,66360.95,67962.89,74590.46,78610.57,79882.01,82521.75,89828.09,93850.43,99627.41,101923.76
-2021,Claims on Government,46800.63,47599.11,54373.5,61067.26,67365,68327.81,68284.47,70689.56,76280.18,82207.97,84049.83,85069.9
-2021,Net Foreign Assets - Deposit Money Banks,-1640.93,-76.57,-1141.41,143.63,188.15,1429.66,3073.35,3262.18,2748.81,1515.61,1993.22,4476.57
-2021,Net Foreign Assets - Bank of Ghana,19036.12,22680.25,27685.53,26449.5,23761.38,20458.68,18608.78,17030.75,16557.47,17493.65,14977.11,14121.48
-2021,Total Net Foreign Assets,17395.19,22603.68,26544.12,26593.13,23949.53,21888.34,21682.13,20292.93,19306.29,19009.26,16970.33,18598.06
-2021,Total Liquidity (M2+),78580.2,80115.31,81837.16,80948.25,81720.25,83517.12,81991.64,82381.98,85873.08,86834.8,89750.09,92975.47
-2022,Broad Money (M2),61506.23,62114.88,63064.58,62642.47,62507.29,63008.83,62141.9,62231.49,64951.98,67182.71,68687.05,69973.1
-2022,Narrow Money (M1),35749.95,36087.76,38343.92,37021.82,37692.56,38072.77,37284.88,38149.24,40091.32,40725.39,42438.98,43495.72
-2022,Reserve Money (RM),22097.82,22066.42,23658.2,21977.25,22072.88,21906.3,22923.98,22848.62,23027.84,25060.18,25304.36,28896.02
-2022,Total Banking System Liabilities,78580.2,80115.31,81837.16,81021.35,81870.59,83517.12,81991.64,82381.98,85873.08,86834.8,89750.09,92952.95
-2022,Foreign Currency Deposits,17073.97,18000.43,18772.59,18305.78,19212.96,20508.29,19849.74,20150.49,20921.1,19652.09,21063.04,23002.37
-2022,Savings and Time Deposits,25756.28,26027.12,24720.65,25620.65,24814.73,24936.05,24857.02,24082.25,24860.66,26457.32,26248.07,26477.38
-2022,Currency Outside Banks,11359.96,11174.96,11291.11,11143.38,11033.23,10840.44,10950.34,11329.66,11419.94,12298.19,13179.57,14358.06
-2022,Demand Deposits,24390,24912.8,27052.81,25878.43,26659.33,27232.34,26334.55,26819.58,28671.38,28427.21,29259.41,29137.66
-2022,Total Banking System Assets,78580.2,80115.31,81837.16,81021.35,81870.59,83517.12,81991.64,82381.98,85873.08,86834.8,89750.09,92952.95
-2022,Other Domestic Assets (Net),-3729.83,-3421.09,-5957.67,-4669.71,-6448.36,-4820.38,-8222.7,-8511.8,-9098.14,-11304.19,-11948.81,-11239.89
-2022,Claims on Private and Public Enterprises,38784.43,39616.01,40977.91,41305.95,42069.45,42308.13,41969.91,43265.5,44447.88,46017.07,47290.13,49384.52
-2022,Government Deposits,9645.08,9269.35,22446.09,20120.42,16572.69,16791.44,15781.12,16823.6,13000.25,11625,9662.62,13284.19
-2022,Claims on Government,39622.05,40674.56,40343.94,41287.32,41168.47,42213.3,43843.38,45771.21,46129.47,46081.26,46486.4,47498.72
-2022,Total Net Domestic Assets,65031.57,67600.14,52918.1,57876.23,60367.22,62909.62,61809.47,63701.3,68478.96,69169.14,72165.1,72359.17
-2022,Net Foreign Assets - Deposit Money Banks,1500.68,1332.02,1735.6,1244.97,1067.7,1890.28,2670.76,503.32,790.44,9.27,238.07,670.46
-2022,Net Foreign Assets - Bank of Ghana,12047.96,11183.15,27183.46,21900.15,20435.67,18717.23,17511.41,18177.36,16603.68,17656.39,17346.92,19923.32
-2022,Total Net Foreign Assets,13548.64,12515.17,28919.06,23145.12,21503.37,20607.5,20182.18,18680.68,17394.12,17665.66,17584.99,20593.78
-2022,Total Liquidity (M2+),65624.35,65391.69,67211.73,68255.73,68909.37,68402.24,71413.78,73665.72,73821.71,74641.05,75899.85,76380.39
-2022,Narrow Money (M1),29253.12,28492.75,30389.87,31472.09,32056.8,31134.76,32343.09,33383.01,33067.36,33211.44,34287.05,34645.61
-2022,Broad Money (M2),51585.72,51061,52877.93,53859.19,54243.26,53390.07,54992.04,56830.77,56733.19,58307.85,59776.49,60254.83
-2022,Reserve Money (RM),20487.32,20182.67,20245.61,20434.65,19960.83,20259.33,19984.77,19867.74,20196.06,19878.52,20936.32,21501.04
-2022,Total Banking System Liabilities,65731.09,65460.47,67318.47,68362.48,68909.37,68402.24,71413.78,73665.72,73821.71,74641.05,75899.85,76380.39
-2022,Foreign Currency Deposits,14038.63,14330.69,14333.8,14396.54,14666.11,15012.17,16421.73,16834.95,17088.52,16333.2,16123.36,16125.56
-2022,Savings and Time Deposits,22332.6,22568.25,22488.06,22387.1,22186.46,22255.31,22648.95,23447.76,23665.83,25096.41,25489.44,25609.22
-2022,Demand Deposits,19297.9,18758.08,20459.9,21481.56,22282.35,21419.14,22799.97,23707.02,23319.6,22838.52,23110.4,22704.7
-2022,Currency Outside Banks,9955.22,9734.67,9929.98,9990.53,9774.44,9715.62,9543.12,9675.99,9747.76,10372.92,11176.65,11940.91
-2022,Total Banking System Assets,65731.09,65460.47,67318.47,68362.48,68909.37,68402.24,71413.78,73665.72,73821.71,74641.05,75899.85,76380.39
-2022,Other Domestic Assets (Net),-11124.09,-7171.03,-4191.45,-5275.59,-5089.6,-4804.07,-5241.82,-4079.78,-4630.4,-5453.68,-4671.25,-4661.88
-2022,Claims on Private and Public Enterprises,46057.92,43886.95,44777.55,45559.06,48135.52,48920.53,42616.2,36699.8,37593.13,38435.52,38598.13,39454.03
-2022,Government Deposits,8620.31,10349.19,10859.1,8494.32,11941.1,11904.84,9950.14,11911.83,13127.95,11487.41,11009.74,10619.64
-2022,Claims on Government,25923.72,26193.57,26740.14,26496.84,26440.9,26739.03,26297.58,34823.85,36911.37,37563.53,38111.05,38171.15
-2022,Total Net Domestic Assets,46243.65,46432.11,50417.95,52070.99,49761.98,51580.06,53721.84,55532.04,56746.16,59057.96,61028.2,62343.66
-2022,Net Foreign Assets - Deposit Money Banks,3510.61,4335.61,2258.05,1774.77,1107.91,625.67,2453.03,2852.25,1823.97,2171.63,1497.73,1273.96
-2022,Net Foreign Assets - Bank of Ghana,15976.83,14692.76,14642.48,14516.72,18039.48,16196.52,15238.91,15281.43,15251.58,13411.46,13373.93,12762.76
-2022,Total Net Foreign Assets,19487.44,19028.37,16900.52,16291.49,19147.39,16822.19,17691.94,18133.68,17075.55,15583.09,14871.65,14036.73
-2022,Total Liquidity (M2+),58436.43,58346.76,58139.8,58195.16,58400.17,59903.79,61134.32,59845.3,59491.1,63669.19,63696.51,66063.4
-2023,Narrow Money (M1),26898.6,25802.21,25706.34,26092.74,25525.21,25643.7,26847.01,26152.07,25503.31,29126.27,28652.13,29792.56
-2023,Broad Money (M2),44588.59,43686.92,44049.21,44893.33,44595.27,45793.23,46909.15,45619.31,45282.59,49195.4,49388.18,52007.03
-2023,Reserve Money (RM),17509.3,16447.43,17519.82,17796.29,16566.13,17784.87,18869.45,17393.97,17321.66,19067.83,20062.66,21471.52
-2023,Total Banking System Liabilities,58436.43,58346.76,58139.8,58195.16,58400.17,59903.81,61134.32,59845.3,59491.1,63669.19,63696.51,66170.14
-2023,Foreign Currency Deposits,13847.84,14659.85,14090.59,13301.82,13804.9,14110.56,14225.17,14225.98,14208.51,14473.8,14308.33,14056.37
-2023,Savings and Time Deposits,17689.99,17884.7,18342.87,18800.59,19070.05,20149.53,20062.14,19467.24,19779.27,20069.13,20736.04,22214.47
-2023,Demand Deposits,17482.04,16750.8,16444.85,16979.71,16626.43,16836.69,18301.47,17427.34,16915.55,19936.71,18782.65,19119
-2023,Currency Outside Banks,9416.56,9051.42,9261.5,9113.03,8898.78,8807.01,8545.54,8724.73,8587.76,9189.56,9869.49,10673.55
-2023,Total Banking System Assets,58436.43,58346.76,58139.8,58195.16,58400.17,59903.81,61134.32,59845.3,59491.1,63669.19,63696.51,66170.14
-2023,Other Domestic Assets (Net),-6478.18,-9524.2,-8054.43,-7532.31,-7998.36,-8204.49,-10103.8,-7012.22,-6789.63,-7348.01,-7734.89,-6941.53
-2023,Claims on Private and Public Enterprises,40100.97,40854.7,41147.93,40982.89,41476.37,42620.15,42996.74,42697.26,43758.7,43831.99,42840.64,45704.53
-2023,Government Deposits,7704.25,7141.62,7646.66,15426.18,14672.12,12636.09,10836.38,9905.25,10875.79,8729.19,8433.02,11016.67
-2023,Claims on Government,22313.71,23283.77,23428.03,23635.67,24016.22,23730.66,24895.03,22589.97,22645.59,22763.64,23770.12,23632.56
-2023,Total Net Domestic Assets,43396.2,42594.31,43728.56,36652.41,37847.66,40486.29,41653.63,41462.93,41373.43,45051.37,44705.19,45999.08
-2023,Net Foreign Assets - Deposit Money Banks,3955.07,4070.23,3872.81,2823.34,2112.77,1777.3,2717.19,2847.03,4040.18,4210.14,2532.37,3438.28
-2023,Net Foreign Assets - Bank of Ghana,11085.16,11682.22,10538.43,18719.41,18439.74,17640.21,16763.5,15535.34,14077.48,14407.68,16458.95,16900.5
-2023,Total Net Foreign Assets,15040.23,15752.45,14411.24,21542.75,20552.51,19417.52,19480.69,18382.36,18117.66,18617.82,18991.32,20338.78
+Year,Variable,Month,Value
+2023,Money Supply_Total Liquidity (M2+)  ,January,196993.67
+2023,Money Supply_ Narrow Money  (M1)  ,January,91213.65
+2023,Money Supply_Broad Money (M2)  ,January,139966.12
+2023,Money Supply_Reserve Money (RM)  ,January,62752.24
+2023,Total Liabilities of the Bankning System  ,January,196993.67
+2023,Money Supply Component_Foreign currency deposits  ,January,57027.55
+2023,Money Supply Component_Demand deposits  ,January,60202.67
+2023,Money Supply Component_Savings & Time deposits  ,January,48752.47
+2023,Money Supply Component_Currency outside banks  ,January,31010.97
+2023,Total Assets of the Banking System   ,January,196993.67
+2023,Net Domestic Assets_Other Items (net)  ,January,-7604.16
+2023,Net Domestic Assets_Govt. Deposits  ,January,-10943.6
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,81246.78
+2023,Net Domestic Assets_Claims on Govt.  ,January,124463.84
+2023,Net Foreign Assets_BOG  ,January,-21311.29
+2023,Net Foreign Assets_DMBs  ,January,9254.91
+2023,Net Domestic Assets  ,January,209050.05
+2023,Net Foreign Assets  ,January,-12056.39
+2022,Total Assets of the Banking System   ,January,137474.29
+2022,Net Domestic Assets_Other Items (net)  ,January,-15100.79
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,62869.17
+2022,Net Domestic Assets_Govt. Deposits  ,January,17897.85
+2022,Net Domestic Assets_Claims on Govt.  ,January,101110.2
+2022,Money Supply_Total Liquidity (M2+)  ,January,137474.29
+2022,Money Supply_Broad Money (M2)  ,January,108231.31
+2022,Money Supply_ Narrow Money  (M1)  ,January,72196.33
+2022,Money Supply_Reserve Money (RM)  ,January,44963.72
+2022,Total Liabilities of the Bankning System  ,January,137474.29
+2022,Money Supply Component_Foreign currency deposits  ,January,29242.98
+2022,Money Supply Component_Savings & Time deposits  ,January,36034.97
+2022,Money Supply Component_Demand deposits  ,January,50331.4
+2022,Money Supply Component_Currency outside banks  ,January,21864.93
+2022,Net Domestic Assets  ,January,130980.74
+2022,Net Foreign Assets_BOG  ,January,9315.06
+2022,Net Foreign Assets_DMBs  ,January,-2821.51
+2022,Net Foreign Assets  ,January,6493.55
+2021,Money Supply_Total Liquidity (M2+)  ,January,117976.85
+2021,Money Supply_Broad Money (M2)  ,January,92625.97
+2021,Money Supply_ Narrow Money  (M1)  ,January,59346.37
+2021,Total Liabilities of the Bankning System  ,January,117976.85
+2021,Money Supply_Reserve Money (RM)  ,January,36117.25
+2021,Money Supply Component_Savings & Time deposits  ,January,33279.6
+2021,Money Supply Component_Foreign currency deposits  ,January,25350.87
+2021,Money Supply Component_Demand deposits  ,January,39440.16
+2021,Money Supply Component_Currency outside banks  ,January,19906.22
+2021,Total Assets of the Banking System   ,January,117976.85
+2021,Net Domestic Assets_Other Items (net)  ,January,-24166.83
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,55081.43
+2021,Net Domestic Assets_Claims on Govt.  ,January,85886.99
+2021,Net Domestic Assets_Govt. Deposits  ,January,17805.29
+2021,Net Domestic Assets  ,January,98996.29
+2021,Net Foreign Assets_BOG  ,January,16105.2
+2021,Net Foreign Assets_DMBs  ,January,2875.35
+2021,Net Foreign Assets  ,January,18980.55
+2020,Money Supply_Broad Money (M2)  ,January,68534.71
+2020,Money Supply_Total Liquidity (M2+)  ,January,91907.42
+2020,Money Supply_Reserve Money (RM)  ,January,27432.02
+2020,Money Supply_ Narrow Money  (M1)  ,January,42605.59
+2020,Total Liabilities of the Bankning System  ,January,91907.42
+2020,Money Supply Component_Foreign currency deposits  ,January,23372.71
+2020,Money Supply Component_Savings & Time deposits  ,January,25929.11
+2020,Money Supply Component_Demand deposits  ,January,28997.05
+2020,Total Assets of the Banking System   ,January,91907.42
+2020,Money Supply Component_Currency outside banks  ,January,13608.55
+2020,Net Domestic Assets_Other Items (net)  ,January,-10525.95
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,50948.73
+2020,Net Domestic Assets_Govt. Deposits  ,January,12711.18
+2020,Net Domestic Assets  ,January,74512.23
+2020,Net Domestic Assets_Claims on Govt.  ,January,46800.63
+2020,Net Foreign Assets_DMBs  ,January,-1640.93
+2020,Net Foreign Assets_BOG  ,January,19036.12
+2020,Net Foreign Assets  ,January,17395.19
+2019,Money Supply_Total Liquidity (M2+)  ,January,78580.2
+2019,Money Supply_Broad Money (M2)  ,January,61506.23
+2019,Money Supply_ Narrow Money  (M1)  ,January,35749.95
+2019,Money Supply_Reserve Money (RM)  ,January,22097.82
+2019,Total Liabilities of the Bankning System  ,January,78580.2
+2019,Money Supply Component_Foreign currency deposits  ,January,17073.97
+2019,Money Supply Component_Savings & Time deposits  ,January,25756.28
+2019,Money Supply Component_Currency outside banks  ,January,11359.96
+2019,Money Supply Component_Demand deposits  ,January,24390
+2019,Total Assets of the Banking System   ,January,78580.2
+2019,Net Domestic Assets_Other Items (net)  ,January,-3729.83
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,38784.43
+2019,Net Domestic Assets_Govt. Deposits  ,January,9645.08
+2019,Net Domestic Assets_Claims on Govt.  ,January,39622.05
+2019,Net Domestic Assets  ,January,65031.57
+2019,Net Foreign Assets_DMBs  ,January,1500.68
+2019,Net Foreign Assets_BOG  ,January,12047.96
+2019,Net Foreign Assets  ,January,13548.64
+2018,Money Supply_Total Liquidity (M2+)  ,January,65624.35
+2018,Money Supply_ Narrow Money  (M1)  ,January,29253.12
+2018,Money Supply_Broad Money (M2)  ,January,51585.72
+2018,Money Supply_Reserve Money (RM)  ,January,20487.32
+2018,Total Liabilities of the Bankning System  ,January,65731.09
+2018,Money Supply Component_Foreign currency deposits  ,January,14038.63
+2018,Money Supply Component_Savings & Time deposits  ,January,22332.6
+2018,Money Supply Component_Demand deposits  ,January,19297.9
+2018,Money Supply Component_Currency outside banks  ,January,9955.22
+2018,Total Assets of the Banking System   ,January,65731.09
+2018,Net Domestic Assets_Other Items (net)  ,January,-11124.09
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,46057.92
+2018,Net Domestic Assets_Govt. Deposits  ,January,8620.31
+2018,Net Domestic Assets_Claims on Govt.  ,January,25923.72
+2018,Net Domestic Assets  ,January,46243.65
+2018,Net Foreign Assets_DMBs  ,January,3510.61
+2018,Net Foreign Assets_BOG  ,January,15976.83
+2018,Net Foreign Assets  ,January,19487.44
+2017,Money Supply_Total Liquidity (M2+)  ,January,58436.43
+2017,Money Supply_ Narrow Money  (M1)  ,January,26898.6
+2017,Money Supply_Broad Money (M2)  ,January,44588.59
+2017,Money Supply_Reserve Money (RM)  ,January,17509.3
+2017,Total Liabilities of the Bankning System  ,January,58436.43
+2017,Money Supply Component_Foreign currency deposits  ,January,13847.84
+2017,Money Supply Component_Savings & Time deposits  ,January,17689.99
+2017,Money Supply Component_Demand deposits  ,January,17482.04
+2017,Money Supply Component_Currency outside banks  ,January,9416.56
+2017,Total Assets of the Banking System   ,January,58436.43
+2017,Net Domestic Assets_Other Items (net)  ,January,-6478.18
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,January,40100.97
+2017,Net Domestic Assets_Govt. Deposits  ,January,7704.25
+2017,Net Domestic Assets_Claims on Govt.  ,January,22313.71
+2017,Net Domestic Assets  ,January,43396.2
+2017,Net Foreign Assets_DMBs  ,January,3955.07
+2017,Net Foreign Assets_BOG  ,January,11085.16
+2017,Net Foreign Assets  ,January,15040.23
+2023,Money Supply_Total Liquidity (M2+)  ,Febuary,201602.75
+2023,Money Supply_ Narrow Money  (M1)  ,Febuary,92444.84
+2023,Money Supply_Broad Money (M2)  ,Febuary,143732.5
+2023,Money Supply_Reserve Money (RM)  ,Febuary,66660.76
+2023,Total Liabilities of the Bankning System  ,Febuary,201602.75
+2023,Money Supply Component_Foreign currency deposits  ,Febuary,58379.75
+2023,Money Supply Component_Demand deposits  ,Febuary,61439.02
+2023,Money Supply Component_Savings & Time deposits  ,Febuary,51287.66
+2023,Money Supply Component_Currency outside banks  ,Febuary,31005.82
+2023,Total Assets of the Banking System   ,Febuary,201602.75
+2023,Net Domestic Assets_Other Items (net)  ,Febuary,-10035.84
+2023,Net Domestic Assets_Govt. Deposits  ,Febuary,-13327.31
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,76412.93
+2023,Net Domestic Assets_Claims on Govt.  ,Febuary,132736.92
+2023,Net Foreign Assets_BOG  ,Febuary,-21494.37
+2023,Net Foreign Assets_DMBs  ,Febuary,10655.8
+2023,Net Domestic Assets  ,Febuary,212441.31
+2023,Net Foreign Assets  ,Febuary,-10838.57
+2022,Total Assets of the Banking System   ,Febuary,139444.38
+2022,Net Domestic Assets_Other Items (net)  ,Febuary,-14910.82
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,64329.02
+2022,Net Domestic Assets_Govt. Deposits  ,Febuary,18735.6
+2022,Net Domestic Assets_Claims on Govt.  ,Febuary,103853.45
+2022,Money Supply_Total Liquidity (M2+)  ,Febuary,139444.38
+2022,Money Supply_Broad Money (M2)  ,Febuary,107281.63
+2022,Money Supply_ Narrow Money  (M1)  ,Febuary,70941.29
+2022,Money Supply_Reserve Money (RM)  ,Febuary,43197.72
+2022,Total Liabilities of the Bankning System  ,Febuary,139444.38
+2022,Money Supply Component_Foreign currency deposits  ,Febuary,32162.74
+2022,Money Supply Component_Savings & Time deposits  ,Febuary,36340.35
+2022,Money Supply Component_Demand deposits  ,Febuary,49283.21
+2022,Money Supply Component_Currency outside banks  ,Febuary,21658.07
+2022,Net Domestic Assets  ,Febuary,134536.04
+2022,Net Foreign Assets_BOG  ,Febuary,9154.33
+2022,Net Foreign Assets_DMBs  ,Febuary,-4246
+2022,Net Foreign Assets  ,Febuary,4908.33
+2021,Money Supply_Total Liquidity (M2+)  ,Febuary,118467.48
+2021,Money Supply_Broad Money (M2)  ,Febuary,92071.18
+2021,Money Supply_ Narrow Money  (M1)  ,Febuary,57987.1
+2021,Total Liabilities of the Bankning System  ,Febuary,118467.48
+2021,Money Supply_Reserve Money (RM)  ,Febuary,35439.73
+2021,Money Supply Component_Savings & Time deposits  ,Febuary,34084.08
+2021,Money Supply Component_Foreign currency deposits  ,Febuary,26396.31
+2021,Money Supply Component_Demand deposits  ,Febuary,38540.09
+2021,Money Supply Component_Currency outside banks  ,Febuary,19447
+2021,Total Assets of the Banking System   ,Febuary,118467.48
+2021,Net Domestic Assets_Other Items (net)  ,Febuary,-25793.89
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,55441.14
+2021,Net Domestic Assets_Claims on Govt.  ,Febuary,86287.49
+2021,Net Domestic Assets_Govt. Deposits  ,Febuary,16599.85
+2021,Net Domestic Assets  ,Febuary,99334.89
+2021,Net Foreign Assets_BOG  ,Febuary,15460.68
+2021,Net Foreign Assets_DMBs  ,Febuary,3671.92
+2021,Net Foreign Assets  ,Febuary,19132.59
+2020,Money Supply_Broad Money (M2)  ,Febuary,69798.91
+2020,Money Supply_Total Liquidity (M2+)  ,Febuary,91762.67
+2020,Money Supply_Reserve Money (RM)  ,Febuary,26284.64
+2020,Money Supply_ Narrow Money  (M1)  ,Febuary,43500.82
+2020,Total Liabilities of the Bankning System  ,Febuary,91762.67
+2020,Money Supply Component_Foreign currency deposits  ,Febuary,21963.76
+2020,Money Supply Component_Savings & Time deposits  ,Febuary,26298.09
+2020,Money Supply Component_Demand deposits  ,Febuary,30107.92
+2020,Total Assets of the Banking System   ,Febuary,91762.67
+2020,Money Supply Component_Currency outside banks  ,Febuary,13392.9
+2020,Net Domestic Assets_Other Items (net)  ,Febuary,-12599.46
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,50658.28
+2020,Net Domestic Assets_Govt. Deposits  ,Febuary,16498.94
+2020,Net Domestic Assets  ,Febuary,69158.99
+2020,Net Domestic Assets_Claims on Govt.  ,Febuary,47599.11
+2020,Net Foreign Assets_DMBs  ,Febuary,-76.57
+2020,Net Foreign Assets_BOG  ,Febuary,22680.25
+2020,Net Foreign Assets  ,Febuary,22603.68
+2019,Money Supply_Total Liquidity (M2+)  ,Febuary,80115.31
+2019,Money Supply_Broad Money (M2)  ,Febuary,62114.88
+2019,Money Supply_ Narrow Money  (M1)  ,Febuary,36087.76
+2019,Money Supply_Reserve Money (RM)  ,Febuary,22066.42
+2019,Total Liabilities of the Bankning System  ,Febuary,80115.31
+2019,Money Supply Component_Foreign currency deposits  ,Febuary,18000.43
+2019,Money Supply Component_Savings & Time deposits  ,Febuary,26027.12
+2019,Money Supply Component_Currency outside banks  ,Febuary,11174.96
+2019,Money Supply Component_Demand deposits  ,Febuary,24912.8
+2019,Total Assets of the Banking System   ,Febuary,80115.31
+2019,Net Domestic Assets_Other Items (net)  ,Febuary,-3421.09
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,39616.01
+2019,Net Domestic Assets_Govt. Deposits  ,Febuary,9269.35
+2019,Net Domestic Assets_Claims on Govt.  ,Febuary,40674.56
+2019,Net Domestic Assets  ,Febuary,67600.14
+2019,Net Foreign Assets_DMBs  ,Febuary,1332.02
+2019,Net Foreign Assets_BOG  ,Febuary,11183.15
+2019,Net Foreign Assets  ,Febuary,12515.17
+2018,Money Supply_Total Liquidity (M2+)  ,Febuary,65391.69
+2018,Money Supply_ Narrow Money  (M1)  ,Febuary,28492.75
+2018,Money Supply_Broad Money (M2)  ,Febuary,51061
+2018,Money Supply_Reserve Money (RM)  ,Febuary,20182.67
+2018,Total Liabilities of the Bankning System  ,Febuary,65460.47
+2018,Money Supply Component_Foreign currency deposits  ,Febuary,14330.69
+2018,Money Supply Component_Savings & Time deposits  ,Febuary,22568.25
+2018,Money Supply Component_Demand deposits  ,Febuary,18758.08
+2018,Money Supply Component_Currency outside banks  ,Febuary,9734.67
+2018,Total Assets of the Banking System   ,Febuary,65460.47
+2018,Net Domestic Assets_Other Items (net)  ,Febuary,-7171.03
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,43886.95
+2018,Net Domestic Assets_Govt. Deposits  ,Febuary,10349.19
+2018,Net Domestic Assets_Claims on Govt.  ,Febuary,26193.57
+2018,Net Domestic Assets  ,Febuary,46432.11
+2018,Net Foreign Assets_DMBs  ,Febuary,4335.61
+2018,Net Foreign Assets_BOG  ,Febuary,14692.76
+2018,Net Foreign Assets  ,Febuary,19028.37
+2017,Money Supply_Total Liquidity (M2+)  ,Febuary,58346.76
+2017,Money Supply_ Narrow Money  (M1)  ,Febuary,25802.21
+2017,Money Supply_Broad Money (M2)  ,Febuary,43686.92
+2017,Money Supply_Reserve Money (RM)  ,Febuary,16447.43
+2017,Total Liabilities of the Bankning System  ,Febuary,58346.76
+2017,Money Supply Component_Foreign currency deposits  ,Febuary,14659.85
+2017,Money Supply Component_Savings & Time deposits  ,Febuary,17884.7
+2017,Money Supply Component_Demand deposits  ,Febuary,16750.8
+2017,Money Supply Component_Currency outside banks  ,Febuary,9051.42
+2017,Total Assets of the Banking System   ,Febuary,58346.76
+2017,Net Domestic Assets_Other Items (net)  ,Febuary,-9524.2
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,Febuary,40854.7
+2017,Net Domestic Assets_Govt. Deposits  ,Febuary,7141.62
+2017,Net Domestic Assets_Claims on Govt.  ,Febuary,23283.77
+2017,Net Domestic Assets  ,Febuary,42594.31
+2017,Net Foreign Assets_DMBs  ,Febuary,4070.23
+2017,Net Foreign Assets_BOG  ,Febuary,11682.22
+2017,Net Foreign Assets  ,Febuary,15752.45
+2023,Money Supply_Total Liquidity (M2+)  ,March,206824.35
+2023,Money Supply_ Narrow Money  (M1)  ,March,94959.7
+2023,Money Supply_Broad Money (M2)  ,March,148131
+2023,Money Supply_Reserve Money (RM)  ,March,57840.77
+2023,Total Liabilities of the Bankning System  ,March,206824.35
+2023,Money Supply Component_Foreign currency deposits  ,March,58855.41
+2023,Money Supply Component_Demand deposits  ,March,63765.13
+2023,Money Supply Component_Savings & Time deposits  ,March,53171.31
+2023,Money Supply Component_Currency outside banks  ,March,31194.57
+2023,Total Assets of the Banking System   ,March,206824.35
+2023,Net Domestic Assets_Other Items (net)  ,March,-1608.81
+2023,Net Domestic Assets_Govt. Deposits  ,March,-11560.83
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,76208.82
+2023,Net Domestic Assets_Claims on Govt.  ,March,132669.66
+2023,Net Foreign Assets_BOG  ,March,-23944.4
+2023,Net Foreign Assets_DMBs  ,March,11938.25
+2023,Net Domestic Assets  ,March,218830.5
+2023,Net Foreign Assets  ,March,-12006.15
+2022,Total Assets of the Banking System   ,March,142729.13
+2022,Net Domestic Assets_Other Items (net)  ,March,-16044.79
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,67382.69
+2022,Net Domestic Assets_Govt. Deposits  ,March,20194.32
+2022,Net Domestic Assets_Claims on Govt.  ,March,107982.02
+2022,Money Supply_Total Liquidity (M2+)  ,March,142729.13
+2022,Money Supply_Broad Money (M2)  ,March,106050.89
+2022,Money Supply_ Narrow Money  (M1)  ,March,68918.69
+2022,Money Supply_Reserve Money (RM)  ,March,44866.58
+2022,Total Liabilities of the Bankning System  ,March,142729.13
+2022,Money Supply Component_Foreign currency deposits  ,March,36678.24
+2022,Money Supply Component_Savings & Time deposits  ,March,37132.19
+2022,Money Supply Component_Demand deposits  ,March,46827.89
+2022,Money Supply Component_Currency outside banks  ,March,22090.81
+2022,Net Domestic Assets  ,March,139125.61
+2022,Net Foreign Assets_BOG  ,March,4485.86
+2022,Net Foreign Assets_DMBs  ,March,-882.33
+2022,Net Foreign Assets  ,March,3603.52
+2021,Money Supply_Total Liquidity (M2+)  ,March,119445.22
+2021,Money Supply_Broad Money (M2)  ,March,93226.01
+2021,Money Supply_ Narrow Money  (M1)  ,March,59148.13
+2021,Total Liabilities of the Bankning System  ,March,119445.22
+2021,Money Supply_Reserve Money (RM)  ,March,34904.63
+2021,Money Supply Component_Savings & Time deposits  ,March,34077.88
+2021,Money Supply Component_Foreign currency deposits  ,March,26219.21
+2021,Money Supply Component_Demand deposits  ,March,39823.39
+2021,Money Supply Component_Currency outside banks  ,March,19324.74
+2021,Total Assets of the Banking System   ,March,119445.22
+2021,Net Domestic Assets_Other Items (net)  ,March,-23511.79
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,55222.55
+2021,Net Domestic Assets_Claims on Govt.  ,March,90387.46
+2021,Net Domestic Assets_Govt. Deposits  ,March,17749.88
+2021,Net Domestic Assets  ,March,104348.34
+2021,Net Foreign Assets_BOG  ,March,11740.53
+2021,Net Foreign Assets_DMBs  ,March,3356.35
+2021,Net Foreign Assets  ,March,15096.87
+2020,Money Supply_Broad Money (M2)  ,March,71097.88
+2020,Money Supply_Total Liquidity (M2+)  ,March,92905.07
+2020,Money Supply_Reserve Money (RM)  ,March,28486.64
+2020,Money Supply_ Narrow Money  (M1)  ,March,44691.05
+2020,Total Liabilities of the Bankning System  ,March,92905.07
+2020,Money Supply Component_Foreign currency deposits  ,March,21807.18
+2020,Money Supply Component_Savings & Time deposits  ,March,26406.84
+2020,Money Supply Component_Demand deposits  ,March,31043.52
+2020,Total Assets of the Banking System   ,March,92905.07
+2020,Money Supply Component_Currency outside banks  ,March,13647.53
+2020,Net Domestic Assets_Other Items (net)  ,March,-25303.39
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,49467.68
+2020,Net Domestic Assets_Govt. Deposits  ,March,12176.84
+2020,Net Domestic Assets  ,March,66360.95
+2020,Net Domestic Assets_Claims on Govt.  ,March,54373.5
+2020,Net Foreign Assets_DMBs  ,March,-1141.41
+2020,Net Foreign Assets_BOG  ,March,27685.53
+2020,Net Foreign Assets  ,March,26544.12
+2019,Money Supply_Total Liquidity (M2+)  ,March,81837.16
+2019,Money Supply_Broad Money (M2)  ,March,63064.58
+2019,Money Supply_ Narrow Money  (M1)  ,March,38343.92
+2019,Money Supply_Reserve Money (RM)  ,March,23658.2
+2019,Total Liabilities of the Bankning System  ,March,81837.16
+2019,Money Supply Component_Foreign currency deposits  ,March,18772.59
+2019,Money Supply Component_Savings & Time deposits  ,March,24720.65
+2019,Money Supply Component_Currency outside banks  ,March,11291.11
+2019,Money Supply Component_Demand deposits  ,March,27052.81
+2019,Total Assets of the Banking System   ,March,81837.16
+2019,Net Domestic Assets_Other Items (net)  ,March,-5957.67
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,40977.91
+2019,Net Domestic Assets_Govt. Deposits  ,March,22446.09
+2019,Net Domestic Assets_Claims on Govt.  ,March,40343.94
+2019,Net Domestic Assets  ,March,52918.1
+2019,Net Foreign Assets_DMBs  ,March,1735.6
+2019,Net Foreign Assets_BOG  ,March,27183.46
+2019,Net Foreign Assets  ,March,28919.06
+2018,Money Supply_Total Liquidity (M2+)  ,March,67211.73
+2018,Money Supply_ Narrow Money  (M1)  ,March,30389.87
+2018,Money Supply_Broad Money (M2)  ,March,52877.93
+2018,Money Supply_Reserve Money (RM)  ,March,20245.61
+2018,Total Liabilities of the Bankning System  ,March,67318.47
+2018,Money Supply Component_Foreign currency deposits  ,March,14333.8
+2018,Money Supply Component_Savings & Time deposits  ,March,22488.06
+2018,Money Supply Component_Demand deposits  ,March,20459.9
+2018,Money Supply Component_Currency outside banks  ,March,9929.98
+2018,Total Assets of the Banking System   ,March,67318.47
+2018,Net Domestic Assets_Other Items (net)  ,March,-4191.45
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,44777.55
+2018,Net Domestic Assets_Govt. Deposits  ,March,10859.1
+2018,Net Domestic Assets_Claims on Govt.  ,March,26740.14
+2018,Net Domestic Assets  ,March,50417.95
+2018,Net Foreign Assets_DMBs  ,March,2258.05
+2018,Net Foreign Assets_BOG  ,March,14642.48
+2018,Net Foreign Assets  ,March,16900.52
+2017,Money Supply_Total Liquidity (M2+)  ,March,58139.8
+2017,Money Supply_ Narrow Money  (M1)  ,March,25706.34
+2017,Money Supply_Broad Money (M2)  ,March,44049.21
+2017,Money Supply_Reserve Money (RM)  ,March,17519.82
+2017,Total Liabilities of the Bankning System  ,March,58139.8
+2017,Money Supply Component_Foreign currency deposits  ,March,14090.59
+2017,Money Supply Component_Savings & Time deposits  ,March,18342.87
+2017,Money Supply Component_Demand deposits  ,March,16444.85
+2017,Money Supply Component_Currency outside banks  ,March,9261.5
+2017,Total Assets of the Banking System   ,March,58139.8
+2017,Net Domestic Assets_Other Items (net)  ,March,-8054.43
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,March,41147.93
+2017,Net Domestic Assets_Govt. Deposits  ,March,7646.66
+2017,Net Domestic Assets_Claims on Govt.  ,March,23428.03
+2017,Net Domestic Assets  ,March,43728.56
+2017,Net Foreign Assets_DMBs  ,March,3872.81
+2017,Net Foreign Assets_BOG  ,March,10538.43
+2017,Net Foreign Assets  ,March,14411.24
+2023,Money Supply_Total Liquidity (M2+)  ,April,207528.19
+2023,Money Supply_ Narrow Money  (M1)  ,April,97523.05
+2023,Money Supply_Broad Money (M2)  ,April,150496.16
+2023,Money Supply_Reserve Money (RM)  ,April,69161.5
+2023,Total Liabilities of the Bankning System  ,April,207528.19
+2023,Money Supply Component_Foreign currency deposits  ,April,57032.04
+2023,Money Supply Component_Demand deposits  ,April,66184.51
+2023,Money Supply Component_Savings & Time deposits  ,April,52973.1
+2023,Money Supply Component_Currency outside banks  ,April,31338.54
+2023,Total Assets of the Banking System   ,April,207528.19
+2023,Net Domestic Assets_Other Items (net)  ,April,-2615.99
+2023,Net Domestic Assets_Govt. Deposits  ,April,25570.52
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,74857.62
+2023,Net Domestic Assets_Claims on Govt.  ,April,171248.96
+2023,Net Foreign Assets_BOG  ,April,-22970.76
+2023,Net Foreign Assets_DMBs  ,April,12578.9
+2023,Net Domestic Assets  ,April,217920.06
+2023,Net Foreign Assets  ,April,-10391.87
+2022,Total Assets of the Banking System   ,April,142563.67
+2022,Net Domestic Assets_Other Items (net)  ,April,-16866.85
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,69489.48
+2022,Net Domestic Assets_Govt. Deposits  ,April,16426.49
+2022,Net Domestic Assets_Claims on Govt.  ,April,107518.38
+2022,Money Supply_Total Liquidity (M2+)  ,April,142563.67
+2022,Money Supply_Broad Money (M2)  ,April,105204.84
+2022,Money Supply_ Narrow Money  (M1)  ,April,67673.78
+2022,Money Supply_Reserve Money (RM)  ,April,47215.05
+2022,Total Liabilities of the Bankning System  ,April,142563.67
+2022,Money Supply Component_Foreign currency deposits  ,April,37358.83
+2022,Money Supply Component_Savings & Time deposits  ,April,37531.06
+2022,Money Supply Component_Demand deposits  ,April,44714.31
+2022,Money Supply Component_Currency outside banks  ,April,22959.47
+2022,Net Domestic Assets  ,April,143714.52
+2022,Net Foreign Assets_BOG  ,April,1453.09
+2022,Net Foreign Assets_DMBs  ,April,-2603.94
+2022,Net Foreign Assets  ,April,-1150.85
+2021,Money Supply_Total Liquidity (M2+)  ,April,118933.79
+2021,Money Supply_Broad Money (M2)  ,April,91942.98
+2021,Money Supply_ Narrow Money  (M1)  ,April,57786.74
+2021,Total Liabilities of the Bankning System  ,April,118933.79
+2021,Money Supply_Reserve Money (RM)  ,April,35293.96
+2021,Money Supply Component_Savings & Time deposits  ,April,34156.24
+2021,Money Supply Component_Foreign currency deposits  ,April,26990.81
+2021,Money Supply Component_Demand deposits  ,April,38038.38
+2021,Money Supply Component_Currency outside banks  ,April,19748.36
+2021,Total Assets of the Banking System   ,April,118933.79
+2021,Net Domestic Assets_Other Items (net)  ,April,-23223.13
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,55547.63
+2021,Net Domestic Assets_Claims on Govt.  ,April,92061.82
+2021,Net Domestic Assets_Govt. Deposits  ,April,33439.83
+2021,Net Domestic Assets  ,April,90946.49
+2021,Net Foreign Assets_BOG  ,April,26967.14
+2021,Net Foreign Assets_DMBs  ,April,1020.17
+2021,Net Foreign Assets  ,April,27987.31
+2020,Money Supply_Broad Money (M2)  ,April,71941.26
+2020,Money Supply_Total Liquidity (M2+)  ,April,94556.02
+2020,Money Supply_Reserve Money (RM)  ,April,26747.38
+2020,Money Supply_ Narrow Money  (M1)  ,April,45485.05
+2020,Total Liabilities of the Bankning System  ,April,94556.02
+2020,Money Supply Component_Foreign currency deposits  ,April,22614.77
+2020,Money Supply Component_Savings & Time deposits  ,April,26456.21
+2020,Money Supply Component_Demand deposits  ,April,31170.49
+2020,Total Assets of the Banking System   ,April,94556.02
+2020,Money Supply Component_Currency outside banks  ,April,14314.56
+2020,Net Domestic Assets_Other Items (net)  ,April,-24929.09
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,49460.31
+2020,Net Domestic Assets_Govt. Deposits  ,April,17635.59
+2020,Net Domestic Assets  ,April,67962.89
+2020,Net Domestic Assets_Claims on Govt.  ,April,61067.26
+2020,Net Foreign Assets_DMBs  ,April,143.63
+2020,Net Foreign Assets_BOG  ,April,26449.5
+2020,Net Foreign Assets  ,April,26593.13
+2019,Money Supply_Total Liquidity (M2+)  ,April,80948.25
+2019,Money Supply_Broad Money (M2)  ,April,62642.47
+2019,Money Supply_ Narrow Money  (M1)  ,April,37021.82
+2019,Money Supply_Reserve Money (RM)  ,April,21977.25
+2019,Total Liabilities of the Bankning System  ,April,81021.35
+2019,Money Supply Component_Foreign currency deposits  ,April,18305.78
+2019,Money Supply Component_Savings & Time deposits  ,April,25620.65
+2019,Money Supply Component_Currency outside banks  ,April,11143.38
+2019,Money Supply Component_Demand deposits  ,April,25878.43
+2019,Total Assets of the Banking System   ,April,81021.35
+2019,Net Domestic Assets_Other Items (net)  ,April,-4669.71
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,41305.95
+2019,Net Domestic Assets_Govt. Deposits  ,April,20120.42
+2019,Net Domestic Assets_Claims on Govt.  ,April,41287.32
+2019,Net Domestic Assets  ,April,57876.23
+2019,Net Foreign Assets_DMBs  ,April,1244.97
+2019,Net Foreign Assets_BOG  ,April,21900.15
+2019,Net Foreign Assets  ,April,23145.12
+2018,Money Supply_Total Liquidity (M2+)  ,April,68255.73
+2018,Money Supply_ Narrow Money  (M1)  ,April,31472.09
+2018,Money Supply_Broad Money (M2)  ,April,53859.19
+2018,Money Supply_Reserve Money (RM)  ,April,20434.65
+2018,Total Liabilities of the Bankning System  ,April,68362.48
+2018,Money Supply Component_Foreign currency deposits  ,April,14396.54
+2018,Money Supply Component_Savings & Time deposits  ,April,22387.1
+2018,Money Supply Component_Demand deposits  ,April,21481.56
+2018,Money Supply Component_Currency outside banks  ,April,9990.53
+2018,Total Assets of the Banking System   ,April,68362.48
+2018,Net Domestic Assets_Other Items (net)  ,April,-5275.59
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,45559.06
+2018,Net Domestic Assets_Govt. Deposits  ,April,8494.32
+2018,Net Domestic Assets_Claims on Govt.  ,April,26496.84
+2018,Net Domestic Assets  ,April,52070.99
+2018,Net Foreign Assets_DMBs  ,April,1774.77
+2018,Net Foreign Assets_BOG  ,April,14516.72
+2018,Net Foreign Assets  ,April,16291.49
+2017,Money Supply_Total Liquidity (M2+)  ,April,58195.16
+2017,Money Supply_ Narrow Money  (M1)  ,April,26092.74
+2017,Money Supply_Broad Money (M2)  ,April,44893.33
+2017,Money Supply_Reserve Money (RM)  ,April,17796.29
+2017,Total Liabilities of the Bankning System  ,April,58195.16
+2017,Money Supply Component_Foreign currency deposits  ,April,13301.82
+2017,Money Supply Component_Savings & Time deposits  ,April,18800.59
+2017,Money Supply Component_Demand deposits  ,April,16979.71
+2017,Money Supply Component_Currency outside banks  ,April,9113.03
+2017,Total Assets of the Banking System   ,April,58195.16
+2017,Net Domestic Assets_Other Items (net)  ,April,-7532.31
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,April,40982.89
+2017,Net Domestic Assets_Govt. Deposits  ,April,15426.18
+2017,Net Domestic Assets_Claims on Govt.  ,April,23635.67
+2017,Net Domestic Assets  ,April,36652.41
+2017,Net Foreign Assets_DMBs  ,April,2823.34
+2017,Net Foreign Assets_BOG  ,April,18719.41
+2017,Net Foreign Assets  ,April,21542.75
+2023,Money Supply_Total Liquidity (M2+)  ,May,0
+2023,Money Supply_ Narrow Money  (M1)  ,May,0
+2023,Money Supply_Broad Money (M2)  ,May,0
+2023,Money Supply_Reserve Money (RM)  ,May,0
+2023,Total Liabilities of the Bankning System  ,May,0
+2023,Money Supply Component_Foreign currency deposits  ,May,0
+2023,Money Supply Component_Demand deposits  ,May,0
+2023,Money Supply Component_Savings & Time deposits  ,May,0
+2023,Money Supply Component_Currency outside banks  ,May,0
+2023,Total Assets of the Banking System   ,May,0
+2023,Net Domestic Assets_Other Items (net)  ,May,0
+2023,Net Domestic Assets_Govt. Deposits  ,May,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,0
+2023,Net Domestic Assets_Claims on Govt.  ,May,0
+2023,Net Foreign Assets_BOG  ,May,0
+2023,Net Foreign Assets_DMBs  ,May,0
+2023,Net Domestic Assets  ,May,0
+2023,Net Foreign Assets  ,May,0
+2022,Total Assets of the Banking System   ,May,142642.75
+2022,Net Domestic Assets_Other Items (net)  ,May,-16237.04
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,70614.34
+2022,Net Domestic Assets_Govt. Deposits  ,May,10720.71
+2022,Net Domestic Assets_Claims on Govt.  ,May,105573.43
+2022,Money Supply_Total Liquidity (M2+)  ,May,142642.75
+2022,Money Supply_Broad Money (M2)  ,May,105600.77
+2022,Money Supply_ Narrow Money  (M1)  ,May,68062.9
+2022,Money Supply_Reserve Money (RM)  ,May,46616.21
+2022,Total Liabilities of the Bankning System  ,May,142642.75
+2022,Money Supply Component_Foreign currency deposits  ,May,37041.98
+2022,Money Supply Component_Savings & Time deposits  ,May,37537.88
+2022,Money Supply Component_Demand deposits  ,May,45450.55
+2022,Money Supply Component_Currency outside banks  ,May,22612.35
+2022,Net Domestic Assets  ,May,149230.02
+2022,Net Foreign Assets_BOG  ,May,-3813.34
+2022,Net Foreign Assets_DMBs  ,May,-2773.93
+2022,Net Foreign Assets  ,May,-6587.27
+2021,Money Supply_Total Liquidity (M2+)  ,May,120451.55
+2021,Money Supply_Broad Money (M2)  ,May,93396.17
+2021,Money Supply_ Narrow Money  (M1)  ,May,59218.95
+2021,Total Liabilities of the Bankning System  ,May,120451.55
+2021,Money Supply_Reserve Money (RM)  ,May,36597.91
+2021,Money Supply Component_Savings & Time deposits  ,May,34177.22
+2021,Money Supply Component_Foreign currency deposits  ,May,27055.37
+2021,Money Supply Component_Demand deposits  ,May,40106.48
+2021,Money Supply Component_Currency outside banks  ,May,19112.47
+2021,Total Assets of the Banking System   ,May,120451.55
+2021,Net Domestic Assets_Other Items (net)  ,May,-26087.76
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,56183.01
+2021,Net Domestic Assets_Claims on Govt.  ,May,95961.19
+2021,Net Domestic Assets_Govt. Deposits  ,May,32051.55
+2021,Net Domestic Assets  ,May,94004.89
+2021,Net Foreign Assets_BOG  ,May,26592.03
+2021,Net Foreign Assets_DMBs  ,May,-145.37
+2021,Net Foreign Assets  ,May,26446.66
+2020,Money Supply_Broad Money (M2)  ,May,75215.28
+2020,Money Supply_Total Liquidity (M2+)  ,May,98540
+2020,Money Supply_Reserve Money (RM)  ,May,27001.53
+2020,Money Supply_ Narrow Money  (M1)  ,May,47768.64
+2020,Total Liabilities of the Bankning System  ,May,98540
+2020,Money Supply Component_Foreign currency deposits  ,May,23324.71
+2020,Money Supply Component_Savings & Time deposits  ,May,27446.64
+2020,Money Supply Component_Demand deposits  ,May,33279.41
+2020,Total Assets of the Banking System   ,May,98540
+2020,Money Supply Component_Currency outside banks  ,May,14489.24
+2020,Net Domestic Assets_Other Items (net)  ,May,-24590.26
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,49568.66
+2020,Net Domestic Assets_Govt. Deposits  ,May,17752.94
+2020,Net Domestic Assets  ,May,74590.46
+2020,Net Domestic Assets_Claims on Govt.  ,May,67365
+2020,Net Foreign Assets_DMBs  ,May,188.15
+2020,Net Foreign Assets_BOG  ,May,23761.38
+2020,Net Foreign Assets  ,May,23949.53
+2019,Money Supply_Total Liquidity (M2+)  ,May,81720.25
+2019,Money Supply_Broad Money (M2)  ,May,62507.29
+2019,Money Supply_ Narrow Money  (M1)  ,May,37692.56
+2019,Money Supply_Reserve Money (RM)  ,May,22072.88
+2019,Total Liabilities of the Bankning System  ,May,81870.59
+2019,Money Supply Component_Foreign currency deposits  ,May,19212.96
+2019,Money Supply Component_Savings & Time deposits  ,May,24814.73
+2019,Money Supply Component_Currency outside banks  ,May,11033.23
+2019,Money Supply Component_Demand deposits  ,May,26659.33
+2019,Total Assets of the Banking System   ,May,81870.59
+2019,Net Domestic Assets_Other Items (net)  ,May,-6448.36
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,42069.45
+2019,Net Domestic Assets_Govt. Deposits  ,May,16572.69
+2019,Net Domestic Assets_Claims on Govt.  ,May,41168.47
+2019,Net Domestic Assets  ,May,60367.22
+2019,Net Foreign Assets_DMBs  ,May,1067.7
+2019,Net Foreign Assets_BOG  ,May,20435.67
+2019,Net Foreign Assets  ,May,21503.37
+2018,Money Supply_Total Liquidity (M2+)  ,May,68909.37
+2018,Money Supply_ Narrow Money  (M1)  ,May,32056.8
+2018,Money Supply_Broad Money (M2)  ,May,54243.26
+2018,Money Supply_Reserve Money (RM)  ,May,19960.83
+2018,Total Liabilities of the Bankning System  ,May,68909.37
+2018,Money Supply Component_Foreign currency deposits  ,May,14666.11
+2018,Money Supply Component_Savings & Time deposits  ,May,22186.46
+2018,Money Supply Component_Demand deposits  ,May,22282.35
+2018,Money Supply Component_Currency outside banks  ,May,9774.44
+2018,Total Assets of the Banking System   ,May,68909.37
+2018,Net Domestic Assets_Other Items (net)  ,May,-5089.6
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,48135.52
+2018,Net Domestic Assets_Govt. Deposits  ,May,11941.1
+2018,Net Domestic Assets_Claims on Govt.  ,May,26440.9
+2018,Net Domestic Assets  ,May,49761.98
+2018,Net Foreign Assets_DMBs  ,May,1107.91
+2018,Net Foreign Assets_BOG  ,May,18039.48
+2018,Net Foreign Assets  ,May,19147.39
+2017,Money Supply_Total Liquidity (M2+)  ,May,58400.17
+2017,Money Supply_ Narrow Money  (M1)  ,May,25525.21
+2017,Money Supply_Broad Money (M2)  ,May,44595.27
+2017,Money Supply_Reserve Money (RM)  ,May,16566.13
+2017,Total Liabilities of the Bankning System  ,May,58400.17
+2017,Money Supply Component_Foreign currency deposits  ,May,13804.9
+2017,Money Supply Component_Savings & Time deposits  ,May,19070.05
+2017,Money Supply Component_Demand deposits  ,May,16626.43
+2017,Money Supply Component_Currency outside banks  ,May,8898.78
+2017,Total Assets of the Banking System   ,May,58400.17
+2017,Net Domestic Assets_Other Items (net)  ,May,-7998.36
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,May,41476.37
+2017,Net Domestic Assets_Govt. Deposits  ,May,14672.12
+2017,Net Domestic Assets_Claims on Govt.  ,May,24016.22
+2017,Net Domestic Assets  ,May,37847.66
+2017,Net Foreign Assets_DMBs  ,May,2112.77
+2017,Net Foreign Assets_BOG  ,May,18439.74
+2017,Net Foreign Assets  ,May,20552.51
+2023,Money Supply_Total Liquidity (M2+)  ,June,0
+2023,Money Supply_ Narrow Money  (M1)  ,June,0
+2023,Money Supply_Broad Money (M2)  ,June,0
+2023,Money Supply_Reserve Money (RM)  ,June,0
+2023,Total Liabilities of the Bankning System  ,June,0
+2023,Money Supply Component_Foreign currency deposits  ,June,0
+2023,Money Supply Component_Demand deposits  ,June,0
+2023,Money Supply Component_Savings & Time deposits  ,June,0
+2023,Money Supply Component_Currency outside banks  ,June,0
+2023,Total Assets of the Banking System   ,June,0
+2023,Net Domestic Assets_Other Items (net)  ,June,0
+2023,Net Domestic Assets_Govt. Deposits  ,June,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,0
+2023,Net Domestic Assets_Claims on Govt.  ,June,0
+2023,Net Foreign Assets_BOG  ,June,0
+2023,Net Foreign Assets_DMBs  ,June,0
+2023,Net Domestic Assets  ,June,0
+2023,Net Foreign Assets  ,June,0
+2022,Total Assets of the Banking System   ,June,145156.93
+2022,Net Domestic Assets_Other Items (net)  ,June,-15265.53
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,71452.21
+2022,Net Domestic Assets_Govt. Deposits  ,June,9179.97
+2022,Net Domestic Assets_Claims on Govt.  ,June,105621.16
+2022,Money Supply_Total Liquidity (M2+)  ,June,145156.93
+2022,Money Supply_Broad Money (M2)  ,June,106488.56
+2022,Money Supply_ Narrow Money  (M1)  ,June,66917.35
+2022,Money Supply_Reserve Money (RM)  ,June,48237.98
+2022,Total Liabilities of the Bankning System  ,June,145156.93
+2022,Money Supply Component_Foreign currency deposits  ,June,38668.37
+2022,Money Supply Component_Savings & Time deposits  ,June,39571.21
+2022,Money Supply Component_Demand deposits  ,June,44815.03
+2022,Money Supply Component_Currency outside banks  ,June,22102.32
+2022,Net Domestic Assets  ,June,152627.87
+2022,Net Foreign Assets_BOG  ,June,-6401.93
+2022,Net Foreign Assets_DMBs  ,June,-1069.01
+2022,Net Foreign Assets  ,June,-7470.94
+2021,Money Supply_Total Liquidity (M2+)  ,June,121891.32
+2021,Money Supply_Broad Money (M2)  ,June,94210.69
+2021,Money Supply_ Narrow Money  (M1)  ,June,59921.11
+2021,Total Liabilities of the Bankning System  ,June,121891.32
+2021,Money Supply_Reserve Money (RM)  ,June,36063.64
+2021,Money Supply Component_Savings & Time deposits  ,June,34289.58
+2021,Money Supply Component_Foreign currency deposits  ,June,27680.63
+2021,Money Supply Component_Demand deposits  ,June,41364.14
+2021,Money Supply Component_Currency outside banks  ,June,18556.97
+2021,Total Assets of the Banking System   ,June,121891.32
+2021,Net Domestic Assets_Other Items (net)  ,June,-22192.82
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,55417.75
+2021,Net Domestic Assets_Claims on Govt.  ,June,94906.19
+2021,Net Domestic Assets_Govt. Deposits  ,June,31624.36
+2021,Net Domestic Assets  ,June,96506.78
+2021,Net Foreign Assets_BOG  ,June,25033.84
+2021,Net Foreign Assets_DMBs  ,June,350.71
+2021,Net Foreign Assets  ,June,25384.55
+2020,Money Supply_Broad Money (M2)  ,June,76951.84
+2020,Money Supply_Total Liquidity (M2+)  ,June,100498.91
+2020,Money Supply_Reserve Money (RM)  ,June,25546.83
+2020,Money Supply_ Narrow Money  (M1)  ,June,48684.68
+2020,Total Liabilities of the Bankning System  ,June,100498.91
+2020,Money Supply Component_Foreign currency deposits  ,June,23547.07
+2020,Money Supply Component_Savings & Time deposits  ,June,28267.16
+2020,Money Supply Component_Demand deposits  ,June,33867.24
+2020,Total Assets of the Banking System   ,June,100498.91
+2020,Money Supply Component_Currency outside banks  ,June,14817.44
+2020,Net Domestic Assets_Other Items (net)  ,June,-24656.45
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,49590.7
+2020,Net Domestic Assets_Govt. Deposits  ,June,14651.49
+2020,Net Domestic Assets  ,June,78610.57
+2020,Net Domestic Assets_Claims on Govt.  ,June,68327.81
+2020,Net Foreign Assets_DMBs  ,June,1429.66
+2020,Net Foreign Assets_BOG  ,June,20458.68
+2020,Net Foreign Assets  ,June,21888.34
+2019,Money Supply_Total Liquidity (M2+)  ,June,83517.12
+2019,Money Supply_Broad Money (M2)  ,June,63008.83
+2019,Money Supply_ Narrow Money  (M1)  ,June,38072.77
+2019,Money Supply_Reserve Money (RM)  ,June,21906.3
+2019,Total Liabilities of the Bankning System  ,June,83517.12
+2019,Money Supply Component_Foreign currency deposits  ,June,20508.29
+2019,Money Supply Component_Savings & Time deposits  ,June,24936.05
+2019,Money Supply Component_Currency outside banks  ,June,10840.44
+2019,Money Supply Component_Demand deposits  ,June,27232.34
+2019,Total Assets of the Banking System   ,June,83517.12
+2019,Net Domestic Assets_Other Items (net)  ,June,-4820.38
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,42308.13
+2019,Net Domestic Assets_Govt. Deposits  ,June,16791.44
+2019,Net Domestic Assets_Claims on Govt.  ,June,42213.3
+2019,Net Domestic Assets  ,June,62909.62
+2019,Net Foreign Assets_DMBs  ,June,1890.28
+2019,Net Foreign Assets_BOG  ,June,18717.23
+2019,Net Foreign Assets  ,June,20607.5
+2018,Money Supply_Total Liquidity (M2+)  ,June,68402.24
+2018,Money Supply_ Narrow Money  (M1)  ,June,31134.76
+2018,Money Supply_Broad Money (M2)  ,June,53390.07
+2018,Money Supply_Reserve Money (RM)  ,June,20259.33
+2018,Total Liabilities of the Bankning System  ,June,68402.24
+2018,Money Supply Component_Foreign currency deposits  ,June,15012.17
+2018,Money Supply Component_Savings & Time deposits  ,June,22255.31
+2018,Money Supply Component_Demand deposits  ,June,21419.14
+2018,Money Supply Component_Currency outside banks  ,June,9715.62
+2018,Total Assets of the Banking System   ,June,68402.24
+2018,Net Domestic Assets_Other Items (net)  ,June,-4804.07
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,48920.53
+2018,Net Domestic Assets_Govt. Deposits  ,June,11904.84
+2018,Net Domestic Assets_Claims on Govt.  ,June,26739.03
+2018,Net Domestic Assets  ,June,51580.06
+2018,Net Foreign Assets_DMBs  ,June,625.67
+2018,Net Foreign Assets_BOG  ,June,16196.52
+2018,Net Foreign Assets  ,June,16822.19
+2017,Money Supply_Total Liquidity (M2+)  ,June,59903.79
+2017,Money Supply_ Narrow Money  (M1)  ,June,25643.7
+2017,Money Supply_Broad Money (M2)  ,June,45793.23
+2017,Money Supply_Reserve Money (RM)  ,June,17784.87
+2017,Total Liabilities of the Bankning System  ,June,59903.81
+2017,Money Supply Component_Foreign currency deposits  ,June,14110.56
+2017,Money Supply Component_Savings & Time deposits  ,June,20149.53
+2017,Money Supply Component_Demand deposits  ,June,16836.69
+2017,Money Supply Component_Currency outside banks  ,June,8807.01
+2017,Total Assets of the Banking System   ,June,59903.81
+2017,Net Domestic Assets_Other Items (net)  ,June,-8204.49
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,June,42620.15
+2017,Net Domestic Assets_Govt. Deposits  ,June,12636.09
+2017,Net Domestic Assets_Claims on Govt.  ,June,23730.66
+2017,Net Domestic Assets  ,June,40486.29
+2017,Net Foreign Assets_DMBs  ,June,1777.3
+2017,Net Foreign Assets_BOG  ,June,17640.21
+2017,Net Foreign Assets  ,June,19417.52
+2023,Money Supply_Total Liquidity (M2+)  ,July,0
+2023,Money Supply_ Narrow Money  (M1)  ,July,0
+2023,Money Supply_Broad Money (M2)  ,July,0
+2023,Money Supply_Reserve Money (RM)  ,July,0
+2023,Total Liabilities of the Bankning System  ,July,0
+2023,Money Supply Component_Foreign currency deposits  ,July,0
+2023,Money Supply Component_Demand deposits  ,July,0
+2023,Money Supply Component_Savings & Time deposits  ,July,0
+2023,Money Supply Component_Currency outside banks  ,July,0
+2023,Total Assets of the Banking System   ,July,0
+2023,Net Domestic Assets_Other Items (net)  ,July,0
+2023,Net Domestic Assets_Govt. Deposits  ,July,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,0
+2023,Net Domestic Assets_Claims on Govt.  ,July,0
+2023,Net Foreign Assets_BOG  ,July,0
+2023,Net Foreign Assets_DMBs  ,July,0
+2023,Net Domestic Assets  ,July,0
+2023,Net Foreign Assets  ,July,0
+2022,Total Assets of the Banking System   ,July,150415.5
+2022,Net Domestic Assets_Other Items (net)  ,July,-14030.18
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,71998.23
+2022,Net Domestic Assets_Govt. Deposits  ,July,6138.75
+2022,Net Domestic Assets_Claims on Govt.  ,July,107563.51
+2022,Money Supply_Total Liquidity (M2+)  ,July,150415.5
+2022,Money Supply_Broad Money (M2)  ,July,109303.85
+2022,Money Supply_ Narrow Money  (M1)  ,July,68983.29
+2022,Money Supply_Reserve Money (RM)  ,July,49549.65
+2022,Total Liabilities of the Bankning System  ,July,150415.5
+2022,Money Supply Component_Foreign currency deposits  ,July,41111.65
+2022,Money Supply Component_Savings & Time deposits  ,July,40320.55
+2022,Money Supply Component_Demand deposits  ,July,46627.57
+2022,Money Supply Component_Currency outside banks  ,July,22355.72
+2022,Net Domestic Assets  ,July,159392.8
+2022,Net Foreign Assets_BOG  ,July,-8995.2
+2022,Net Foreign Assets_DMBs  ,July,17.89
+2022,Net Foreign Assets  ,July,-8977.3
+2021,Money Supply_Total Liquidity (M2+)  ,July,122643.76
+2021,Money Supply_Broad Money (M2)  ,July,94837.79
+2021,Money Supply_ Narrow Money  (M1)  ,July,59325.64
+2021,Total Liabilities of the Bankning System  ,July,122643.76
+2021,Money Supply_Reserve Money (RM)  ,July,39878.74
+2021,Money Supply Component_Savings & Time deposits  ,July,35512.15
+2021,Money Supply Component_Foreign currency deposits  ,July,27805.97
+2021,Money Supply Component_Demand deposits  ,July,40746.4
+2021,Money Supply Component_Currency outside banks  ,July,18579.25
+2021,Total Assets of the Banking System   ,July,122643.76
+2021,Net Domestic Assets_Other Items (net)  ,July,-22047.34
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,56238.07
+2021,Net Domestic Assets_Claims on Govt.  ,July,93587.41
+2021,Net Domestic Assets_Govt. Deposits  ,July,26221.94
+2021,Net Domestic Assets  ,July,101556.2
+2021,Net Foreign Assets_BOG  ,July,23575.23
+2021,Net Foreign Assets_DMBs  ,July,-2487.66
+2021,Net Foreign Assets  ,July,21087.56
+2020,Money Supply_Broad Money (M2)  ,July,77843.83
+2020,Money Supply_Total Liquidity (M2+)  ,July,101564.14
+2020,Money Supply_Reserve Money (RM)  ,July,28515.19
+2020,Money Supply_ Narrow Money  (M1)  ,July,49276.26
+2020,Total Liabilities of the Bankning System  ,July,101564.14
+2020,Money Supply Component_Foreign currency deposits  ,July,23720.32
+2020,Money Supply Component_Savings & Time deposits  ,July,28567.57
+2020,Money Supply Component_Demand deposits  ,July,33793.08
+2020,Total Assets of the Banking System   ,July,101564.14
+2020,Money Supply Component_Currency outside banks  ,July,15483.17
+2020,Net Domestic Assets_Other Items (net)  ,July,-25663.22
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,49399.21
+2020,Net Domestic Assets_Govt. Deposits  ,July,12138.45
+2020,Net Domestic Assets  ,July,79882.01
+2020,Net Domestic Assets_Claims on Govt.  ,July,68284.47
+2020,Net Foreign Assets_DMBs  ,July,3073.35
+2020,Net Foreign Assets_BOG  ,July,18608.78
+2020,Net Foreign Assets  ,July,21682.13
+2019,Money Supply_Total Liquidity (M2+)  ,July,81991.64
+2019,Money Supply_Broad Money (M2)  ,July,62141.9
+2019,Money Supply_ Narrow Money  (M1)  ,July,37284.88
+2019,Money Supply_Reserve Money (RM)  ,July,22923.98
+2019,Total Liabilities of the Bankning System  ,July,81991.64
+2019,Money Supply Component_Foreign currency deposits  ,July,19849.74
+2019,Money Supply Component_Savings & Time deposits  ,July,24857.02
+2019,Money Supply Component_Currency outside banks  ,July,10950.34
+2019,Money Supply Component_Demand deposits  ,July,26334.55
+2019,Total Assets of the Banking System   ,July,81991.64
+2019,Net Domestic Assets_Other Items (net)  ,July,-8222.7
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,41969.91
+2019,Net Domestic Assets_Govt. Deposits  ,July,15781.12
+2019,Net Domestic Assets_Claims on Govt.  ,July,43843.38
+2019,Net Domestic Assets  ,July,61809.47
+2019,Net Foreign Assets_DMBs  ,July,2670.76
+2019,Net Foreign Assets_BOG  ,July,17511.41
+2019,Net Foreign Assets  ,July,20182.18
+2018,Money Supply_Total Liquidity (M2+)  ,July,71413.78
+2018,Money Supply_ Narrow Money  (M1)  ,July,32343.09
+2018,Money Supply_Broad Money (M2)  ,July,54992.04
+2018,Money Supply_Reserve Money (RM)  ,July,19984.77
+2018,Total Liabilities of the Bankning System  ,July,71413.78
+2018,Money Supply Component_Foreign currency deposits  ,July,16421.73
+2018,Money Supply Component_Savings & Time deposits  ,July,22648.95
+2018,Money Supply Component_Demand deposits  ,July,22799.97
+2018,Money Supply Component_Currency outside banks  ,July,9543.12
+2018,Total Assets of the Banking System   ,July,71413.78
+2018,Net Domestic Assets_Other Items (net)  ,July,-5241.82
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,42616.2
+2018,Net Domestic Assets_Govt. Deposits  ,July,9950.14
+2018,Net Domestic Assets_Claims on Govt.  ,July,26297.58
+2018,Net Domestic Assets  ,July,53721.84
+2018,Net Foreign Assets_DMBs  ,July,2453.03
+2018,Net Foreign Assets_BOG  ,July,15238.91
+2018,Net Foreign Assets  ,July,17691.94
+2017,Money Supply_Total Liquidity (M2+)  ,July,61134.32
+2017,Money Supply_ Narrow Money  (M1)  ,July,26847.01
+2017,Money Supply_Broad Money (M2)  ,July,46909.15
+2017,Money Supply_Reserve Money (RM)  ,July,18869.45
+2017,Total Liabilities of the Bankning System  ,July,61134.32
+2017,Money Supply Component_Foreign currency deposits  ,July,14225.17
+2017,Money Supply Component_Savings & Time deposits  ,July,20062.14
+2017,Money Supply Component_Demand deposits  ,July,18301.47
+2017,Money Supply Component_Currency outside banks  ,July,8545.54
+2017,Total Assets of the Banking System   ,July,61134.32
+2017,Net Domestic Assets_Other Items (net)  ,July,-10103.8
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,July,42996.74
+2017,Net Domestic Assets_Govt. Deposits  ,July,10836.38
+2017,Net Domestic Assets_Claims on Govt.  ,July,24895.03
+2017,Net Domestic Assets  ,July,41653.63
+2017,Net Foreign Assets_DMBs  ,July,2717.19
+2017,Net Foreign Assets_BOG  ,July,16763.5
+2017,Net Foreign Assets  ,July,19480.69
+2023,Money Supply_Total Liquidity (M2+)  ,August,0
+2023,Money Supply_ Narrow Money  (M1)  ,August,0
+2023,Money Supply_Broad Money (M2)  ,August,0
+2023,Money Supply_Reserve Money (RM)  ,August,0
+2023,Total Liabilities of the Bankning System  ,August,0
+2023,Money Supply Component_Foreign currency deposits  ,August,0
+2023,Money Supply Component_Demand deposits  ,August,0
+2023,Money Supply Component_Savings & Time deposits  ,August,0
+2023,Money Supply Component_Currency outside banks  ,August,0
+2023,Total Assets of the Banking System   ,August,0
+2023,Net Domestic Assets_Other Items (net)  ,August,0
+2023,Net Domestic Assets_Govt. Deposits  ,August,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,0
+2023,Net Domestic Assets_Claims on Govt.  ,August,0
+2023,Net Foreign Assets_BOG  ,August,0
+2023,Net Foreign Assets_DMBs  ,August,0
+2023,Net Domestic Assets  ,August,0
+2023,Net Foreign Assets  ,August,0
+2022,Total Assets of the Banking System   ,August,152455.83
+2022,Net Domestic Assets_Other Items (net)  ,August,-19035.94
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,73974.45
+2022,Net Domestic Assets_Govt. Deposits  ,August,1710.64
+2022,Net Domestic Assets_Claims on Govt.  ,August,113215.36
+2022,Money Supply_Total Liquidity (M2+)  ,August,152455.83
+2022,Money Supply_Broad Money (M2)  ,August,110233.88
+2022,Money Supply_ Narrow Money  (M1)  ,August,69058.34
+2022,Money Supply_Reserve Money (RM)  ,August,49977.35
+2022,Total Liabilities of the Bankning System  ,August,152455.83
+2022,Money Supply Component_Foreign currency deposits  ,August,42221.95
+2022,Money Supply Component_Savings & Time deposits  ,August,41175.54
+2022,Money Supply Component_Demand deposits  ,August,45982.95
+2022,Money Supply Component_Currency outside banks  ,August,23075.4
+2022,Net Domestic Assets  ,August,166443.23
+2022,Net Foreign Assets_BOG  ,August,-14375.54
+2022,Net Foreign Assets_DMBs  ,August,388.14
+2022,Net Foreign Assets  ,August,-13987.4
+2021,Money Supply_Total Liquidity (M2+)  ,August,123548.57
+2021,Money Supply_Broad Money (M2)  ,August,96081.78
+2021,Money Supply_ Narrow Money  (M1)  ,August,60948.49
+2021,Total Liabilities of the Bankning System  ,August,123548.57
+2021,Money Supply_Reserve Money (RM)  ,August,37557.02
+2021,Money Supply Component_Savings & Time deposits  ,August,35133.28
+2021,Money Supply Component_Foreign currency deposits  ,August,27466.8
+2021,Money Supply Component_Demand deposits  ,August,42285.43
+2021,Money Supply Component_Currency outside banks  ,August,18663.06
+2021,Total Assets of the Banking System   ,August,123548.57
+2021,Net Domestic Assets_Other Items (net)  ,August,-23019.07
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,57006.8
+2021,Net Domestic Assets_Claims on Govt.  ,August,95329.44
+2021,Net Domestic Assets_Govt. Deposits  ,August,24211.41
+2021,Net Domestic Assets  ,August,105105.76
+2021,Net Foreign Assets_BOG  ,August,21169.25
+2021,Net Foreign Assets_DMBs  ,August,-2726.43
+2021,Net Foreign Assets  ,August,18442.81
+2020,Money Supply_Broad Money (M2)  ,August,79012.1
+2020,Money Supply_Total Liquidity (M2+)  ,August,102814.68
+2020,Money Supply_Reserve Money (RM)  ,August,27474.02
+2020,Money Supply_ Narrow Money  (M1)  ,August,49566.86
+2020,Total Liabilities of the Bankning System  ,August,102814.68
+2020,Money Supply Component_Foreign currency deposits  ,August,23802.58
+2020,Money Supply Component_Savings & Time deposits  ,August,29445.24
+2020,Money Supply Component_Demand deposits  ,August,33785.01
+2020,Total Assets of the Banking System   ,August,102814.68
+2020,Money Supply Component_Currency outside banks  ,August,15781.85
+2020,Net Domestic Assets_Other Items (net)  ,August,-27373.7
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,50214.5
+2020,Net Domestic Assets_Govt. Deposits  ,August,11008.61
+2020,Net Domestic Assets  ,August,82521.75
+2020,Net Domestic Assets_Claims on Govt.  ,August,70689.56
+2020,Net Foreign Assets_DMBs  ,August,3262.18
+2020,Net Foreign Assets_BOG  ,August,17030.75
+2020,Net Foreign Assets  ,August,20292.93
+2019,Money Supply_Total Liquidity (M2+)  ,August,82381.98
+2019,Money Supply_Broad Money (M2)  ,August,62231.49
+2019,Money Supply_ Narrow Money  (M1)  ,August,38149.24
+2019,Money Supply_Reserve Money (RM)  ,August,22848.62
+2019,Total Liabilities of the Bankning System  ,August,82381.98
+2019,Money Supply Component_Foreign currency deposits  ,August,20150.49
+2019,Money Supply Component_Savings & Time deposits  ,August,24082.25
+2019,Money Supply Component_Currency outside banks  ,August,11329.66
+2019,Money Supply Component_Demand deposits  ,August,26819.58
+2019,Total Assets of the Banking System   ,August,82381.98
+2019,Net Domestic Assets_Other Items (net)  ,August,-8511.8
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,43265.5
+2019,Net Domestic Assets_Govt. Deposits  ,August,16823.6
+2019,Net Domestic Assets_Claims on Govt.  ,August,45771.21
+2019,Net Domestic Assets  ,August,63701.3
+2019,Net Foreign Assets_DMBs  ,August,503.32
+2019,Net Foreign Assets_BOG  ,August,18177.36
+2019,Net Foreign Assets  ,August,18680.68
+2018,Money Supply_Total Liquidity (M2+)  ,August,73665.72
+2018,Money Supply_ Narrow Money  (M1)  ,August,33383.01
+2018,Money Supply_Broad Money (M2)  ,August,56830.77
+2018,Money Supply_Reserve Money (RM)  ,August,19867.74
+2018,Total Liabilities of the Bankning System  ,August,73665.72
+2018,Money Supply Component_Foreign currency deposits  ,August,16834.95
+2018,Money Supply Component_Savings & Time deposits  ,August,23447.76
+2018,Money Supply Component_Demand deposits  ,August,23707.02
+2018,Money Supply Component_Currency outside banks  ,August,9675.99
+2018,Total Assets of the Banking System   ,August,73665.72
+2018,Net Domestic Assets_Other Items (net)  ,August,-4079.78
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,36699.8
+2018,Net Domestic Assets_Govt. Deposits  ,August,11911.83
+2018,Net Domestic Assets_Claims on Govt.  ,August,34823.85
+2018,Net Domestic Assets  ,August,55532.04
+2018,Net Foreign Assets_DMBs  ,August,2852.25
+2018,Net Foreign Assets_BOG  ,August,15281.43
+2018,Net Foreign Assets  ,August,18133.68
+2017,Money Supply_Total Liquidity (M2+)  ,August,59845.3
+2017,Money Supply_ Narrow Money  (M1)  ,August,26152.07
+2017,Money Supply_Broad Money (M2)  ,August,45619.31
+2017,Money Supply_Reserve Money (RM)  ,August,17393.97
+2017,Total Liabilities of the Bankning System  ,August,59845.3
+2017,Money Supply Component_Foreign currency deposits  ,August,14225.98
+2017,Money Supply Component_Savings & Time deposits  ,August,19467.24
+2017,Money Supply Component_Demand deposits  ,August,17427.34
+2017,Money Supply Component_Currency outside banks  ,August,8724.73
+2017,Total Assets of the Banking System   ,August,59845.3
+2017,Net Domestic Assets_Other Items (net)  ,August,-7012.22
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,August,42697.26
+2017,Net Domestic Assets_Govt. Deposits  ,August,9905.25
+2017,Net Domestic Assets_Claims on Govt.  ,August,22589.97
+2017,Net Domestic Assets  ,August,41462.93
+2017,Net Foreign Assets_DMBs  ,August,2847.03
+2017,Net Foreign Assets_BOG  ,August,15535.34
+2017,Net Foreign Assets  ,August,18382.36
+2023,Money Supply_Total Liquidity (M2+)  ,September,0
+2023,Money Supply_ Narrow Money  (M1)  ,September,0
+2023,Money Supply_Broad Money (M2)  ,September,0
+2023,Money Supply_Reserve Money (RM)  ,September,0
+2023,Total Liabilities of the Bankning System  ,September,0
+2023,Money Supply Component_Foreign currency deposits  ,September,0
+2023,Money Supply Component_Demand deposits  ,September,0
+2023,Money Supply Component_Savings & Time deposits  ,September,0
+2023,Money Supply Component_Currency outside banks  ,September,0
+2023,Total Assets of the Banking System   ,September,0
+2023,Net Domestic Assets_Other Items (net)  ,September,0
+2023,Net Domestic Assets_Govt. Deposits  ,September,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,0
+2023,Net Domestic Assets_Claims on Govt.  ,September,0
+2023,Net Foreign Assets_BOG  ,September,0
+2023,Net Foreign Assets_DMBs  ,September,0
+2023,Net Domestic Assets  ,September,0
+2023,Net Foreign Assets  ,September,0
+2022,Total Assets of the Banking System   ,September,160157.59
+2022,Net Domestic Assets_Other Items (net)  ,September,-10283.04
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,78157
+2022,Net Domestic Assets_Govt. Deposits  ,September,8119.5
+2022,Net Domestic Assets_Claims on Govt.  ,September,117068.42
+2022,Money Supply_Total Liquidity (M2+)  ,September,160157.59
+2022,Money Supply_Broad Money (M2)  ,September,110613.58
+2022,Money Supply_ Narrow Money  (M1)  ,September,69671.98
+2022,Money Supply_Reserve Money (RM)  ,September,53503.9
+2022,Total Liabilities of the Bankning System  ,September,160157.59
+2022,Money Supply Component_Foreign currency deposits  ,September,49544.01
+2022,Money Supply Component_Savings & Time deposits  ,September,40941.6
+2022,Money Supply Component_Demand deposits  ,September,45885.89
+2022,Money Supply Component_Currency outside banks  ,September,23786.09
+2022,Net Domestic Assets  ,September,176822.88
+2022,Net Foreign Assets_BOG  ,September,-16871.08
+2022,Net Foreign Assets_DMBs  ,September,205.79
+2022,Net Foreign Assets  ,September,-16665.29
+2021,Money Supply_Total Liquidity (M2+)  ,September,124596.6
+2021,Money Supply_Broad Money (M2)  ,September,96838.7
+2021,Money Supply_ Narrow Money  (M1)  ,September,61153.92
+2021,Total Liabilities of the Bankning System  ,September,124596.6
+2021,Money Supply_Reserve Money (RM)  ,September,39156.13
+2021,Money Supply Component_Savings & Time deposits  ,September,35684.78
+2021,Money Supply Component_Foreign currency deposits  ,September,27757.9
+2021,Money Supply Component_Demand deposits  ,September,42341.55
+2021,Money Supply Component_Currency outside banks  ,September,18812.37
+2021,Total Assets of the Banking System   ,September,124596.6
+2021,Net Domestic Assets_Other Items (net)  ,September,-26879.17
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,58627.96
+2021,Net Domestic Assets_Claims on Govt.  ,September,98107.94
+2021,Net Domestic Assets_Govt. Deposits  ,September,20459.64
+2021,Net Domestic Assets  ,September,109397.09
+2021,Net Foreign Assets_BOG  ,September,16504.31
+2021,Net Foreign Assets_DMBs  ,September,-1304.8
+2021,Net Foreign Assets  ,September,15199.51
+2020,Money Supply_Broad Money (M2)  ,September,84864.02
+2020,Money Supply_Total Liquidity (M2+)  ,September,109134.38
+2020,Money Supply_Reserve Money (RM)  ,September,30338.05
+2020,Money Supply_ Narrow Money  (M1)  ,September,52738.45
+2020,Total Liabilities of the Bankning System  ,September,109134.38
+2020,Money Supply Component_Foreign currency deposits  ,September,24270.36
+2020,Money Supply Component_Savings & Time deposits  ,September,32125.57
+2020,Money Supply Component_Demand deposits  ,September,36332.24
+2020,Total Assets of the Banking System   ,September,109134.38
+2020,Money Supply Component_Currency outside banks  ,September,16406.21
+2020,Net Domestic Assets_Other Items (net)  ,September,-22425.1
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,51165.31
+2020,Net Domestic Assets_Govt. Deposits  ,September,15192.31
+2020,Net Domestic Assets  ,September,89828.09
+2020,Net Domestic Assets_Claims on Govt.  ,September,76280.18
+2020,Net Foreign Assets_DMBs  ,September,2748.81
+2020,Net Foreign Assets_BOG  ,September,16557.47
+2020,Net Foreign Assets  ,September,19306.29
+2019,Money Supply_Total Liquidity (M2+)  ,September,85873.08
+2019,Money Supply_Broad Money (M2)  ,September,64951.98
+2019,Money Supply_ Narrow Money  (M1)  ,September,40091.32
+2019,Money Supply_Reserve Money (RM)  ,September,23027.84
+2019,Total Liabilities of the Bankning System  ,September,85873.08
+2019,Money Supply Component_Foreign currency deposits  ,September,20921.1
+2019,Money Supply Component_Savings & Time deposits  ,September,24860.66
+2019,Money Supply Component_Currency outside banks  ,September,11419.94
+2019,Money Supply Component_Demand deposits  ,September,28671.38
+2019,Total Assets of the Banking System   ,September,85873.08
+2019,Net Domestic Assets_Other Items (net)  ,September,-9098.14
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,44447.88
+2019,Net Domestic Assets_Govt. Deposits  ,September,13000.25
+2019,Net Domestic Assets_Claims on Govt.  ,September,46129.47
+2019,Net Domestic Assets  ,September,68478.96
+2019,Net Foreign Assets_DMBs  ,September,790.44
+2019,Net Foreign Assets_BOG  ,September,16603.68
+2019,Net Foreign Assets  ,September,17394.12
+2018,Money Supply_Total Liquidity (M2+)  ,September,73821.71
+2018,Money Supply_ Narrow Money  (M1)  ,September,33067.36
+2018,Money Supply_Broad Money (M2)  ,September,56733.19
+2018,Money Supply_Reserve Money (RM)  ,September,20196.06
+2018,Total Liabilities of the Bankning System  ,September,73821.71
+2018,Money Supply Component_Foreign currency deposits  ,September,17088.52
+2018,Money Supply Component_Savings & Time deposits  ,September,23665.83
+2018,Money Supply Component_Demand deposits  ,September,23319.6
+2018,Money Supply Component_Currency outside banks  ,September,9747.76
+2018,Total Assets of the Banking System   ,September,73821.71
+2018,Net Domestic Assets_Other Items (net)  ,September,-4630.4
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,37593.13
+2018,Net Domestic Assets_Govt. Deposits  ,September,13127.95
+2018,Net Domestic Assets_Claims on Govt.  ,September,36911.37
+2018,Net Domestic Assets  ,September,56746.16
+2018,Net Foreign Assets_DMBs  ,September,1823.97
+2018,Net Foreign Assets_BOG  ,September,15251.58
+2018,Net Foreign Assets  ,September,17075.55
+2017,Money Supply_Total Liquidity (M2+)  ,September,59491.1
+2017,Money Supply_ Narrow Money  (M1)  ,September,25503.31
+2017,Money Supply_Broad Money (M2)  ,September,45282.59
+2017,Money Supply_Reserve Money (RM)  ,September,17321.66
+2017,Total Liabilities of the Bankning System  ,September,59491.1
+2017,Money Supply Component_Foreign currency deposits  ,September,14208.51
+2017,Money Supply Component_Savings & Time deposits  ,September,19779.27
+2017,Money Supply Component_Demand deposits  ,September,16915.55
+2017,Money Supply Component_Currency outside banks  ,September,8587.76
+2017,Total Assets of the Banking System   ,September,59491.1
+2017,Net Domestic Assets_Other Items (net)  ,September,-6789.63
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,September,43758.7
+2017,Net Domestic Assets_Govt. Deposits  ,September,10875.79
+2017,Net Domestic Assets_Claims on Govt.  ,September,22645.59
+2017,Net Domestic Assets  ,September,41373.43
+2017,Net Foreign Assets_DMBs  ,September,4040.18
+2017,Net Foreign Assets_BOG  ,September,14077.48
+2017,Net Foreign Assets  ,September,18117.66
+2023,Money Supply_Total Liquidity (M2+)  ,October,0
+2023,Money Supply_ Narrow Money  (M1)  ,October,0
+2023,Money Supply_Broad Money (M2)  ,October,0
+2023,Money Supply_Reserve Money (RM)  ,October,0
+2023,Total Liabilities of the Bankning System  ,October,0
+2023,Money Supply Component_Foreign currency deposits  ,October,0
+2023,Money Supply Component_Demand deposits  ,October,0
+2023,Money Supply Component_Savings & Time deposits  ,October,0
+2023,Money Supply Component_Currency outside banks  ,October,0
+2023,Total Assets of the Banking System   ,October,0
+2023,Net Domestic Assets_Other Items (net)  ,October,0
+2023,Net Domestic Assets_Govt. Deposits  ,October,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,0
+2023,Net Domestic Assets_Claims on Govt.  ,October,0
+2023,Net Foreign Assets_BOG  ,October,0
+2023,Net Foreign Assets_DMBs  ,October,0
+2023,Net Domestic Assets  ,October,0
+2023,Net Foreign Assets  ,October,0
+2022,Total Assets of the Banking System   ,October,187659.2
+2022,Net Domestic Assets_Other Items (net)  ,October,-2194.84
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,88213.05
+2022,Net Domestic Assets_Govt. Deposits  ,October,4252.43
+2022,Net Domestic Assets_Claims on Govt.  ,October,125421.67
+2022,Money Supply_Total Liquidity (M2+)  ,October,187659.2
+2022,Money Supply_Broad Money (M2)  ,October,121790.71
+2022,Money Supply_ Narrow Money  (M1)  ,October,79774.66
+2022,Money Supply_Reserve Money (RM)  ,October,64737.95
+2022,Total Liabilities of the Bankning System  ,October,187659.2
+2022,Money Supply Component_Foreign currency deposits  ,October,65868.49
+2022,Money Supply Component_Savings & Time deposits  ,October,42016.05
+2022,Money Supply Component_Demand deposits  ,October,54100.59
+2022,Money Supply Component_Currency outside banks  ,October,25674.07
+2022,Net Domestic Assets  ,October,207187.45
+2022,Net Foreign Assets_BOG  ,October,-21098.91
+2022,Net Foreign Assets_DMBs  ,October,1570.66
+2022,Net Foreign Assets  ,October,-19528.25
+2021,Money Supply_Total Liquidity (M2+)  ,October,129231.01
+2021,Money Supply_Broad Money (M2)  ,October,101128.67
+2021,Money Supply_ Narrow Money  (M1)  ,October,63458.95
+2021,Total Liabilities of the Bankning System  ,October,129231.01
+2021,Money Supply_Reserve Money (RM)  ,October,39785.36
+2021,Money Supply Component_Savings & Time deposits  ,October,37669.72
+2021,Money Supply Component_Foreign currency deposits  ,October,28102.33
+2021,Money Supply Component_Demand deposits  ,October,43921.14
+2021,Money Supply Component_Currency outside banks  ,October,19537.81
+2021,Total Assets of the Banking System   ,October,129231.01
+2021,Net Domestic Assets_Other Items (net)  ,October,-26161.99
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,60490.72
+2021,Net Domestic Assets_Claims on Govt.  ,October,96914.76
+2021,Net Domestic Assets_Govt. Deposits  ,October,17316.69
+2021,Net Domestic Assets  ,October,113926.79
+2021,Net Foreign Assets_BOG  ,October,17247.01
+2021,Net Foreign Assets_DMBs  ,October,-1942.8
+2021,Net Foreign Assets  ,October,15304.21
+2020,Money Supply_Broad Money (M2)  ,October,87833.39
+2020,Money Supply_Total Liquidity (M2+)  ,October,112859.69
+2020,Money Supply_Reserve Money (RM)  ,October,31611.83
+2020,Money Supply_ Narrow Money  (M1)  ,October,54502.47
+2020,Total Liabilities of the Bankning System  ,October,112859.69
+2020,Money Supply Component_Foreign currency deposits  ,October,25026.3
+2020,Money Supply Component_Savings & Time deposits  ,October,33330.92
+2020,Money Supply Component_Demand deposits  ,October,36793.2
+2020,Total Assets of the Banking System   ,October,112859.69
+2020,Money Supply Component_Currency outside banks  ,October,17709.26
+2020,Net Domestic Assets_Other Items (net)  ,October,-22269.48
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,52072.76
+2020,Net Domestic Assets_Govt. Deposits  ,October,18160.83
+2020,Net Domestic Assets  ,October,93850.43
+2020,Net Domestic Assets_Claims on Govt.  ,October,82207.97
+2020,Net Foreign Assets_DMBs  ,October,1515.61
+2020,Net Foreign Assets_BOG  ,October,17493.65
+2020,Net Foreign Assets  ,October,19009.26
+2019,Money Supply_Total Liquidity (M2+)  ,October,86834.8
+2019,Money Supply_Broad Money (M2)  ,October,67182.71
+2019,Money Supply_ Narrow Money  (M1)  ,October,40725.39
+2019,Money Supply_Reserve Money (RM)  ,October,25060.18
+2019,Total Liabilities of the Bankning System  ,October,86834.8
+2019,Money Supply Component_Foreign currency deposits  ,October,19652.09
+2019,Money Supply Component_Savings & Time deposits  ,October,26457.32
+2019,Money Supply Component_Currency outside banks  ,October,12298.19
+2019,Money Supply Component_Demand deposits  ,October,28427.21
+2019,Total Assets of the Banking System   ,October,86834.8
+2019,Net Domestic Assets_Other Items (net)  ,October,-11304.19
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,46017.07
+2019,Net Domestic Assets_Govt. Deposits  ,October,11625
+2019,Net Domestic Assets_Claims on Govt.  ,October,46081.26
+2019,Net Domestic Assets  ,October,69169.14
+2019,Net Foreign Assets_DMBs  ,October,9.27
+2019,Net Foreign Assets_BOG  ,October,17656.39
+2019,Net Foreign Assets  ,October,17665.66
+2018,Money Supply_Total Liquidity (M2+)  ,October,74641.05
+2018,Money Supply_ Narrow Money  (M1)  ,October,33211.44
+2018,Money Supply_Broad Money (M2)  ,October,58307.85
+2018,Money Supply_Reserve Money (RM)  ,October,19878.52
+2018,Total Liabilities of the Bankning System  ,October,74641.05
+2018,Money Supply Component_Foreign currency deposits  ,October,16333.2
+2018,Money Supply Component_Savings & Time deposits  ,October,25096.41
+2018,Money Supply Component_Demand deposits  ,October,22838.52
+2018,Money Supply Component_Currency outside banks  ,October,10372.92
+2018,Total Assets of the Banking System   ,October,74641.05
+2018,Net Domestic Assets_Other Items (net)  ,October,-5453.68
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,38435.52
+2018,Net Domestic Assets_Govt. Deposits  ,October,11487.41
+2018,Net Domestic Assets_Claims on Govt.  ,October,37563.53
+2018,Net Domestic Assets  ,October,59057.96
+2018,Net Foreign Assets_DMBs  ,October,2171.63
+2018,Net Foreign Assets_BOG  ,October,13411.46
+2018,Net Foreign Assets  ,October,15583.09
+2017,Money Supply_Total Liquidity (M2+)  ,October,63669.19
+2017,Money Supply_ Narrow Money  (M1)  ,October,29126.27
+2017,Money Supply_Broad Money (M2)  ,October,49195.4
+2017,Money Supply_Reserve Money (RM)  ,October,19067.83
+2017,Total Liabilities of the Bankning System  ,October,63669.19
+2017,Money Supply Component_Foreign currency deposits  ,October,14473.8
+2017,Money Supply Component_Savings & Time deposits  ,October,20069.13
+2017,Money Supply Component_Demand deposits  ,October,19936.71
+2017,Money Supply Component_Currency outside banks  ,October,9189.56
+2017,Total Assets of the Banking System   ,October,63669.19
+2017,Net Domestic Assets_Other Items (net)  ,October,-7348.01
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,October,43831.99
+2017,Net Domestic Assets_Govt. Deposits  ,October,8729.19
+2017,Net Domestic Assets_Claims on Govt.  ,October,22763.64
+2017,Net Domestic Assets  ,October,45051.37
+2017,Net Foreign Assets_DMBs  ,October,4210.14
+2017,Net Foreign Assets_BOG  ,October,14407.68
+2017,Net Foreign Assets  ,October,18617.82
+2023,Money Supply_Total Liquidity (M2+)  ,November,0
+2023,Money Supply_ Narrow Money  (M1)  ,November,0
+2023,Money Supply_Broad Money (M2)  ,November,0
+2023,Money Supply_Reserve Money (RM)  ,November,0
+2023,Total Liabilities of the Bankning System  ,November,0
+2023,Money Supply Component_Foreign currency deposits  ,November,0
+2023,Money Supply Component_Demand deposits  ,November,0
+2023,Money Supply Component_Savings & Time deposits  ,November,0
+2023,Money Supply Component_Currency outside banks  ,November,0
+2023,Total Assets of the Banking System   ,November,0
+2023,Net Domestic Assets_Other Items (net)  ,November,0
+2023,Net Domestic Assets_Govt. Deposits  ,November,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,0
+2023,Net Domestic Assets_Claims on Govt.  ,November,0
+2023,Net Foreign Assets_BOG  ,November,0
+2023,Net Foreign Assets_DMBs  ,November,0
+2023,Net Domestic Assets  ,November,0
+2023,Net Foreign Assets  ,November,0
+2022,Total Assets of the Banking System   ,November,194979.44
+2022,Net Domestic Assets_Other Items (net)  ,November,-3293.72
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,89004.04
+2022,Net Domestic Assets_Govt. Deposits  ,November,-7420.22
+2022,Net Domestic Assets_Claims on Govt.  ,November,126295.74
+2022,Money Supply_Total Liquidity (M2+)  ,November,194979.44
+2022,Money Supply_Broad Money (M2)  ,November,128482.81
+2022,Money Supply_ Narrow Money  (M1)  ,November,82207.57
+2022,Money Supply_Reserve Money (RM)  ,November,65615
+2022,Total Liabilities of the Bankning System  ,November,194979.44
+2022,Money Supply Component_Foreign currency deposits  ,November,66496.63
+2022,Money Supply Component_Savings & Time deposits  ,November,46275.25
+2022,Money Supply Component_Demand deposits  ,November,52732.92
+2022,Money Supply Component_Currency outside banks  ,November,29474.64
+2022,Net Domestic Assets  ,November,219426.28
+2022,Net Foreign Assets_BOG  ,November,-31490.12
+2022,Net Foreign Assets_DMBs  ,November,7043.28
+2022,Net Foreign Assets  ,November,-24446.84
+2021,Money Supply_Total Liquidity (M2+)  ,November,131645.92
+2021,Money Supply_Broad Money (M2)  ,November,102961.93
+2021,Money Supply_ Narrow Money  (M1)  ,November,65974.99
+2021,Total Liabilities of the Bankning System  ,November,131645.92
+2021,Money Supply_Reserve Money (RM)  ,November,40353.04
+2021,Money Supply Component_Savings & Time deposits  ,November,36986.94
+2021,Money Supply Component_Foreign currency deposits  ,November,28684
+2021,Money Supply Component_Demand deposits  ,November,46467.01
+2021,Money Supply Component_Currency outside banks  ,November,19507.98
+2021,Total Assets of the Banking System   ,November,131645.92
+2021,Net Domestic Assets_Other Items (net)  ,November,-24080.63
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,61295.52
+2021,Net Domestic Assets_Claims on Govt.  ,November,97702.04
+2021,Net Domestic Assets_Govt. Deposits  ,November,13478.78
+2021,Net Domestic Assets  ,November,121438.15
+2021,Net Foreign Assets_BOG  ,November,13208.55
+2021,Net Foreign Assets_DMBs  ,November,-3000.78
+2021,Net Foreign Assets  ,November,10207.77
+2020,Money Supply_Broad Money (M2)  ,November,91709.61
+2020,Money Supply_Total Liquidity (M2+)  ,November,116597.74
+2020,Money Supply_Reserve Money (RM)  ,November,33258.84
+2020,Money Supply_ Narrow Money  (M1)  ,November,58162.71
+2020,Total Liabilities of the Bankning System  ,November,116597.74
+2020,Money Supply Component_Foreign currency deposits  ,November,24888.13
+2020,Money Supply Component_Savings & Time deposits  ,November,33546.9
+2020,Money Supply Component_Demand deposits  ,November,38862.41
+2020,Total Assets of the Banking System   ,November,116597.74
+2020,Money Supply Component_Currency outside banks  ,November,19300.3
+2020,Net Domestic Assets_Other Items (net)  ,November,-23508.65
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,54463.58
+2020,Net Domestic Assets_Govt. Deposits  ,November,15377.35
+2020,Net Domestic Assets  ,November,99627.41
+2020,Net Domestic Assets_Claims on Govt.  ,November,84049.83
+2020,Net Foreign Assets_DMBs  ,November,1993.22
+2020,Net Foreign Assets_BOG  ,November,14977.11
+2020,Net Foreign Assets  ,November,16970.33
+2019,Money Supply_Total Liquidity (M2+)  ,November,89750.09
+2019,Money Supply_Broad Money (M2)  ,November,68687.05
+2019,Money Supply_ Narrow Money  (M1)  ,November,42438.98
+2019,Money Supply_Reserve Money (RM)  ,November,25304.36
+2019,Total Liabilities of the Bankning System  ,November,89750.09
+2019,Money Supply Component_Foreign currency deposits  ,November,21063.04
+2019,Money Supply Component_Savings & Time deposits  ,November,26248.07
+2019,Money Supply Component_Currency outside banks  ,November,13179.57
+2019,Money Supply Component_Demand deposits  ,November,29259.41
+2019,Total Assets of the Banking System   ,November,89750.09
+2019,Net Domestic Assets_Other Items (net)  ,November,-11948.81
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,47290.13
+2019,Net Domestic Assets_Govt. Deposits  ,November,9662.62
+2019,Net Domestic Assets_Claims on Govt.  ,November,46486.4
+2019,Net Domestic Assets  ,November,72165.1
+2019,Net Foreign Assets_DMBs  ,November,238.07
+2019,Net Foreign Assets_BOG  ,November,17346.92
+2019,Net Foreign Assets  ,November,17584.99
+2018,Money Supply_Total Liquidity (M2+)  ,November,75899.85
+2018,Money Supply_ Narrow Money  (M1)  ,November,34287.05
+2018,Money Supply_Broad Money (M2)  ,November,59776.49
+2018,Money Supply_Reserve Money (RM)  ,November,20936.32
+2018,Total Liabilities of the Bankning System  ,November,75899.85
+2018,Money Supply Component_Foreign currency deposits  ,November,16123.36
+2018,Money Supply Component_Savings & Time deposits  ,November,25489.44
+2018,Money Supply Component_Demand deposits  ,November,23110.4
+2018,Money Supply Component_Currency outside banks  ,November,11176.65
+2018,Total Assets of the Banking System   ,November,75899.85
+2018,Net Domestic Assets_Other Items (net)  ,November,-4671.25
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,38598.13
+2018,Net Domestic Assets_Govt. Deposits  ,November,11009.74
+2018,Net Domestic Assets_Claims on Govt.  ,November,38111.05
+2018,Net Domestic Assets  ,November,61028.2
+2018,Net Foreign Assets_DMBs  ,November,1497.73
+2018,Net Foreign Assets_BOG  ,November,13373.93
+2018,Net Foreign Assets  ,November,14871.65
+2017,Money Supply_Total Liquidity (M2+)  ,November,63696.51
+2017,Money Supply_ Narrow Money  (M1)  ,November,28652.13
+2017,Money Supply_Broad Money (M2)  ,November,49388.18
+2017,Money Supply_Reserve Money (RM)  ,November,20062.66
+2017,Total Liabilities of the Bankning System  ,November,63696.51
+2017,Money Supply Component_Foreign currency deposits  ,November,14308.33
+2017,Money Supply Component_Savings & Time deposits  ,November,20736.04
+2017,Money Supply Component_Demand deposits  ,November,18782.65
+2017,Money Supply Component_Currency outside banks  ,November,9869.49
+2017,Total Assets of the Banking System   ,November,63696.51
+2017,Net Domestic Assets_Other Items (net)  ,November,-7734.89
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,November,42840.64
+2017,Net Domestic Assets_Govt. Deposits  ,November,8433.02
+2017,Net Domestic Assets_Claims on Govt.  ,November,23770.12
+2017,Net Domestic Assets  ,November,44705.19
+2017,Net Foreign Assets_DMBs  ,November,2532.37
+2017,Net Foreign Assets_BOG  ,November,16458.95
+2017,Net Foreign Assets  ,November,18991.32
+2023,Money Supply_Total Liquidity (M2+)  ,December,0
+2023,Money Supply_ Narrow Money  (M1)  ,December,0
+2023,Money Supply_Broad Money (M2)  ,December,0
+2023,Money Supply_Reserve Money (RM)  ,December,0
+2023,Total Liabilities of the Bankning System  ,December,0
+2023,Money Supply Component_Foreign currency deposits  ,December,0
+2023,Money Supply Component_Demand deposits  ,December,0
+2023,Money Supply Component_Savings & Time deposits  ,December,0
+2023,Money Supply Component_Currency outside banks  ,December,0
+2023,Total Assets of the Banking System   ,December,0
+2023,Net Domestic Assets_Other Items (net)  ,December,0
+2023,Net Domestic Assets_Govt. Deposits  ,December,0
+2023,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,0
+2023,Net Domestic Assets_Claims on Govt.  ,December,0
+2023,Net Foreign Assets_BOG  ,December,0
+2023,Net Foreign Assets_DMBs  ,December,0
+2023,Net Domestic Assets  ,December,0
+2023,Net Foreign Assets  ,December,0
+2022,Total Assets of the Banking System   ,December,180266.84
+2022,Net Domestic Assets_Other Items (net)  ,December,-7058.82
+2022,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,76905.03
+2022,Net Domestic Assets_Govt. Deposits  ,December,-3660.25
+2022,Net Domestic Assets_Claims on Govt.  ,December,118894.09
+2022,Money Supply_Total Liquidity (M2+)  ,December,180266.84
+2022,Money Supply_Broad Money (M2)  ,December,135142.49
+2022,Money Supply_ Narrow Money  (M1)  ,December,88484.18
+2022,Money Supply_Reserve Money (RM)  ,December,68103.84
+2022,Total Liabilities of the Bankning System  ,December,180266.84
+2022,Money Supply Component_Foreign currency deposits  ,December,45124.35
+2022,Money Supply Component_Savings & Time deposits  ,December,46658.31
+2022,Money Supply Component_Demand deposits  ,December,57063.53
+2022,Money Supply Component_Currency outside banks  ,December,31420.65
+2022,Net Domestic Assets  ,December,192400.54
+2022,Net Foreign Assets_BOG  ,December,-19300.17
+2022,Net Foreign Assets_DMBs  ,December,7166.46
+2022,Net Foreign Assets  ,December,-12133.7
+2021,Money Supply_Total Liquidity (M2+)  ,December,135555.75
+2021,Money Supply_Broad Money (M2)  ,December,105737.27
+2021,Money Supply_ Narrow Money  (M1)  ,December,69389.31
+2021,Total Liabilities of the Bankning System  ,December,135555.75
+2021,Money Supply_Reserve Money (RM)  ,December,43244.9
+2021,Money Supply Component_Savings & Time deposits  ,December,36347.96
+2021,Money Supply Component_Foreign currency deposits  ,December,29818.48
+2021,Money Supply Component_Demand deposits  ,December,47615.41
+2021,Money Supply Component_Currency outside banks  ,December,21773.9
+2021,Total Assets of the Banking System   ,December,135555.75
+2021,Net Domestic Assets_Other Items (net)  ,December,-9551.34
+2021,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,62261.47
+2021,Net Domestic Assets_Claims on Govt.  ,December,97437.16
+2021,Net Domestic Assets_Govt. Deposits  ,December,22122.89
+2021,Net Domestic Assets  ,December,128024.4
+2021,Net Foreign Assets_BOG  ,December,8247.02
+2021,Net Foreign Assets_DMBs  ,December,-715.67
+2021,Net Foreign Assets  ,December,7531.35
+2020,Money Supply_Broad Money (M2)  ,December,94491.75
+2020,Money Supply_Total Liquidity (M2+)  ,December,120521.82
+2020,Money Supply_Reserve Money (RM)  ,December,36124.78
+2020,Money Supply_ Narrow Money  (M1)  ,December,60826.18
+2020,Total Liabilities of the Bankning System  ,December,120521.82
+2020,Money Supply Component_Foreign currency deposits  ,December,26030.07
+2020,Money Supply Component_Savings & Time deposits  ,December,33665.58
+2020,Money Supply Component_Demand deposits  ,December,39936.55
+2020,Total Assets of the Banking System   ,December,120521.82
+2020,Money Supply Component_Currency outside banks  ,December,20889.63
+2020,Net Domestic Assets_Other Items (net)  ,December,-21480.37
+2020,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,54438.54
+2020,Net Domestic Assets_Govt. Deposits  ,December,16104.3
+2020,Net Domestic Assets  ,December,101923.76
+2020,Net Domestic Assets_Claims on Govt.  ,December,85069.9
+2020,Net Foreign Assets_DMBs  ,December,4476.57
+2020,Net Foreign Assets_BOG  ,December,14121.48
+2020,Net Foreign Assets  ,December,18598.06
+2019,Money Supply_Total Liquidity (M2+)  ,December,92975.47
+2019,Money Supply_Broad Money (M2)  ,December,69973.1
+2019,Money Supply_ Narrow Money  (M1)  ,December,43495.72
+2019,Money Supply_Reserve Money (RM)  ,December,28896.02
+2019,Total Liabilities of the Bankning System  ,December,92952.95
+2019,Money Supply Component_Foreign currency deposits  ,December,23002.37
+2019,Money Supply Component_Savings & Time deposits  ,December,26477.38
+2019,Money Supply Component_Currency outside banks  ,December,14358.06
+2019,Money Supply Component_Demand deposits  ,December,29137.66
+2019,Total Assets of the Banking System   ,December,92952.95
+2019,Net Domestic Assets_Other Items (net)  ,December,-11239.89
+2019,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,49384.52
+2019,Net Domestic Assets_Govt. Deposits  ,December,13284.19
+2019,Net Domestic Assets_Claims on Govt.  ,December,47498.72
+2019,Net Domestic Assets  ,December,72359.17
+2019,Net Foreign Assets_DMBs  ,December,670.46
+2019,Net Foreign Assets_BOG  ,December,19923.32
+2019,Net Foreign Assets  ,December,20593.78
+2018,Money Supply_Total Liquidity (M2+)  ,December,76380.39
+2018,Money Supply_ Narrow Money  (M1)  ,December,34645.61
+2018,Money Supply_Broad Money (M2)  ,December,60254.83
+2018,Money Supply_Reserve Money (RM)  ,December,21501.04
+2018,Total Liabilities of the Bankning System  ,December,76380.39
+2018,Money Supply Component_Foreign currency deposits  ,December,16125.56
+2018,Money Supply Component_Savings & Time deposits  ,December,25609.22
+2018,Money Supply Component_Demand deposits  ,December,22704.7
+2018,Money Supply Component_Currency outside banks  ,December,11940.91
+2018,Total Assets of the Banking System   ,December,76380.39
+2018,Net Domestic Assets_Other Items (net)  ,December,-4661.88
+2018,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,39454.03
+2018,Net Domestic Assets_Govt. Deposits  ,December,10619.64
+2018,Net Domestic Assets_Claims on Govt.  ,December,38171.15
+2018,Net Domestic Assets  ,December,62343.66
+2018,Net Foreign Assets_DMBs  ,December,1273.96
+2018,Net Foreign Assets_BOG  ,December,12762.76
+2018,Net Foreign Assets  ,December,14036.73
+2017,Money Supply_Total Liquidity (M2+)  ,December,66063.4
+2017,Money Supply_ Narrow Money  (M1)  ,December,29792.56
+2017,Money Supply_Broad Money (M2)  ,December,52007.03
+2017,Money Supply_Reserve Money (RM)  ,December,21471.52
+2017,Total Liabilities of the Bankning System  ,December,66170.14
+2017,Money Supply Component_Foreign currency deposits  ,December,14056.37
+2017,Money Supply Component_Savings & Time deposits  ,December,22214.47
+2017,Money Supply Component_Demand deposits  ,December,19119
+2017,Money Supply Component_Currency outside banks  ,December,10673.55
+2017,Total Assets of the Banking System   ,December,66170.14
+2017,Net Domestic Assets_Other Items (net)  ,December,-6941.53
+2017,Net Domestic Assets_Claims on Private Sector & Public Net Domestic Assets_Enterprise  ,December,45704.53
+2017,Net Domestic Assets_Govt. Deposits  ,December,11016.67
+2017,Net Domestic Assets_Claims on Govt.  ,December,23632.56
+2017,Net Domestic Assets  ,December,45999.08
+2017,Net Foreign Assets_DMBs  ,December,3438.28
+2017,Net Foreign Assets_BOG  ,December,16900.5
+2017,Net Foreign Assets  ,December,20338.78
