@@ -28,6 +28,7 @@ Tracked deposit levels, liquidity patterns, and circulation of funds.
 Linked inclusion indicators to specific regions and demographic groups.
 Total population of 39M was derived by summing age brackets from this table to serve as the population base.
 
+
 Methodology
 
 * Population Base Definition
@@ -43,12 +44,13 @@ Measured composition of demand, savings and time, and foreign currency deposits 
 Examined deposit trends from 2017 to 2023 and borrowing patterns from selected years between 2017 and 2024.
 
 * Regional Assessment
-Compared mobile money usage and inclusion indicators across regions to identify underserved areas.
+Compared mobile money usage and inclusion indicators across regions to identify underserved areas and divided the region in to north and south
 
 # Excel
-* Fix messy multi row headers and renamed column headers
+* Fix messy multi row headers and renamed column headers.
 * Fill in missing values in Education and transactional column using fowardfills.
-* Standardized column names and remove special characters
+* Standardized column names and remove special characters.
+* Deleted all duplicate rows where the 2022 variables for November and December were recorded as 0.
 
 # SQL (MySQL)
 * Created relational database from multiple data sources.
@@ -110,6 +112,7 @@ NB: Because deposit data is unavailable for 2024 and borrowing years are discont
 
 ## Dashboard
 ![Financial Inclusion Dashboard](DashboardF.png)
+![Financial Inclusion Dashboard](DashboardG.png)
 This dashboard shows trends in financial inclusion, deposit growth, and regional disparities across Ghana.
 
 
