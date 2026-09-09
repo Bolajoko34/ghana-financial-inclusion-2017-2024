@@ -62,7 +62,6 @@ Compared mobile money usage and inclusion indicators across regions to identify 
 # Power BI
 
 * Connected  directly to MySQL database for data access and analysis.
-* Unpivoted monthly columns into a single “Month” column with corresponding values for proper time series analysis.
 * Created a dimensional data model by separating fact and dimension tables.
 * Established relationships between tables to support accurate filtering and aggregation.
 * Built 7 DAX measures using functions such as CALCULATE, SUM, AVERAGE, and DISTINCTCOUNT to compute key metrics.
@@ -70,23 +69,23 @@ Compared mobile money usage and inclusion indicators across regions to identify 
 * Enabled filtering by region, year, gender, and income group for deeper analysis.
 
 # Key Insights
-1. Mobile money adoption shows meaningful digital financial participation where 30% of the national distribution, representing 12 million persons, use     mobile money only for transaction. However, usage is concentrated in the southern regions, which account for 25% compared with 5% in the northern       region highlighting a regional disparity in digital financial participation.
+1. Mobile money adoption shows meaningful digital financial participation where 30% of the national distribution, representing 12 million persons, use mobile money only for transaction. However, usage is concentrated in the southern regions, which account for 28% compared with 2% in the northern region highlighting a regional disparity in digital financial participation.
 
-2. Mobile and non-mobile transaction usage remains nearly balanced at the national level, with 33% using mobile phones for transactions compared with      34% not using mobile phone for transactions.
+2. Mobile and non-mobile transaction usage remains nearly balanced at the national level, with 33% using mobile phones for transactions compared with 34% not using mobile phone for transactions.
 
-3. Only 1% of the national distribution use other transaction methods while 2% use a combination of mobile money and other services, showing low           adoption to alternative transaction type.
+3. Only 1% of the national distribution use other transaction methods while 2% use a combination of mobile money and other services, showing low adoption to alternative transaction type.
 
-4. Across all demographic groups, mobile money account ownership stands at 61%, exceeding traditional financial account ownership at 37%, indicating       stronger adoption of mobile-based financial services.
+4. Across all demographic groups, mobile money account ownership stands at 61%, exceeding traditional financial account ownership at 37%, indicating stronger adoption of mobile-based financial services.
 
-5. Mobile phone ownership is higher among urban residents at 83.3%, compared with 73.95% among rural residents. Financial account ownership follows a      similar pattern, with urban residents at 44.6% compared with 33.82% in rural areas, highlighting an urban-rural gap in financial access.
+5. Mobile phone ownership is higher among urban residents at 83.3%, compared with 73.95% among rural residents. Financial account ownership follows a similar pattern, with urban residents at 44.6% compared with 33.82% in rural areas, highlighting an urban-rural gap in financial access.
 
-6. Education level is associated with higher mobile phone ownership and financial account access. People with secondary or higher education recorded       68.58% mobile ownership and 50.23% financial account ownership, compared with 46.90% and 26.85%, respectively, among those with primary education.
+6. Education level is associated with higher mobile phone ownership and financial account access. People with secondary or higher education recorded 68.58% mobile ownership and 50.23% financial account ownership, compared with 46.90% and 26.85%, respectively, among those with primary education.
 
- 7. Total deposits across demand, savings and time deposits, and foreign currency deposits amounted to approximately 8.05 million. Demand deposits          accounted for the largest share at 3.02 million, followed by savings and time deposits at 2.67 million and foreign currency deposits at 2.37            million. Note: The displayed category values sum to 8.06 million due to rounding, while the total is based on the underlying unrounded values.
+ 7. Total deposits across demand, savings and time deposits, and foreign currency deposits amounted to approximately GH₵6.78 million. Demand deposits accounted for the largest share at GH₵2.54 million, followed by savings and time deposits at GH₵2.28 million and foreign currency deposits at GH₵1.96 million. 
+ 
+ 8. Across demand deposits, savings and time deposits, total deposits peaked in 2022, foreign currency deposits peaked in 2021, and then dropped sharply in 2023.
 
- 8. Across demand deposits, savings and time deposits, and foreign currency deposits, total deposits peaked in 2019, declined between 2020 and              2021, recovered in 2022, and then dropped sharply in 2023. However, demand and savings deposits reached nearly identical levels in 2022, at             approximately 587,000 each.
-
- 9. Average borrowing increased by 85.8 percent between 2017 and 2024, indicating a substantial increase in borrowing activity over the period.
+ 9. Average borrowing increased from 39.5% in 2017 to 73.52% in 2024, an 85.8% rise, based on data available for 2017, 2021, and 2024, with 2021 recording 51.58%
 
 
 Data Limitation
@@ -99,17 +98,15 @@ NB: Because deposit data is unavailable for 2024 and borrowing years are discont
 
 # RECOMMENDATION
 
-1. Increase digital financial education on mobile money, particularly in the Northern regions, to reduce the digital financial inclusion gap between       Northern and Southern Ghana.
+1. Increase digital financial education on mobile money, particularly in the Northern regions, to reduce the digital financial inclusion gap between Northern and Southern Ghana.
 
-2. Banks should partner with telecommunications network providers to educate customers on how to use mobile banking and mobile money services safely       effectively.
+2. Banks should partner with telecommunications network providers to educate customers on how to use mobile banking and mobile money services safely effectively.
 
-3. Banks and network providers should strengthen digital infrastructure and provide digital literacy programs focused on mobile banking, mobile            money, and fraud prevention to reduce users’ concerns about fraudulent activities.
+3. Given that mobile phone usage for transactions remains nearly split with non-mobile usage nationally, banks and network providers should invest in expanding mobile banking access and simplifying onboarding, to shift more of the population from non-mobile to mobile transaction methods.
 
-4. Banks and telecommunications companies should develop savings products that encourage individuals to save regularly while providing opportunities to    earn returns on their savings, reducing their reliance on borrowing.
+4. Banks and telecommunications companies should develop savings products that encourage individuals to save regularly while providing opportunities to earn returns on their savings, reducing their reliance on borrowing.
 
-5. Banks should assess borrowers’ income, repayment capacity, and credit history before approving loans to ensure that loans are granted to                individuals who have the capacity to repay on time.
-
-
+5. Given the rise in average borrowing from 2017 to 2024, banks should monitor borrowing trends closely and pair loan products with financial planning resources to help customers manage debt responsibly
 
 ## Dashboard
 ![Financial Inclusion Dashboard](DashboardF.png)
